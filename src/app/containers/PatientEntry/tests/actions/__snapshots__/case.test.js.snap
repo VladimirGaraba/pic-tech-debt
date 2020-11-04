@@ -1,0 +1,281 @@
+exports[`Patient action creators replacePatientMedicalRecordNumber 1`] = `
+Object {
+  "appKey": Object {
+    "id": "appKeyId",
+    "key": "appKey",
+  },
+  "id": 1,
+  "medicalRecordNumber": "mrn",
+  "type": "pic/PatientEntry/REPLACE_PATIENT_MEDICAL_RECORD_NUMBER",
+}
+`;
+
+exports[`Patient action creators replacePatientName 1`] = `
+Object {
+  "appKey": Object {
+    "id": "appKeyId",
+    "key": "appKey",
+  },
+  "id": 1,
+  "name": "Patient Name",
+  "type": "pic/PatientEntry/REPLACE_PATIENT_NAME",
+}
+`;
+
+exports[`Patient action creators updatePatientAddress1 1`] = `
+Object {
+  "address1": "New Address 1",
+  "id": 1,
+  "old": "Old Address1",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_ADDRESS1",
+}
+`;
+
+exports[`Patient action creators updatePatientAddress2 1`] = `
+Object {
+  "address2": "New Address 1",
+  "id": 1,
+  "old": "Old Address1",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_ADDRESS2",
+}
+`;
+
+exports[`Patient action creators updatePatientAge 1`] = `
+Object {
+  "age": 20,
+  "ageUnits": "years",
+  "id": 1,
+  "oldAge": 10,
+  "oldAgeUnits": "months",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_AGE",
+}
+`;
+
+exports[`Patient action creators updatePatientAgeGroup 1`] = `
+Object {
+  "ageGroup": "years",
+  "id": 1,
+  "old": "months",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_AGE_GROUP",
+}
+`;
+
+exports[`Patient action creators updatePatientAgeYears 1`] = `
+Object {
+  "ageYears": "0.75",
+  "id": 1,
+  "old": "",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_AGE_YEARS",
+}
+`;
+
+exports[`Patient action creators updatePatientAnimalType 1`] = `
+Object {
+  "animalType": "bird",
+  "id": 1,
+  "old": "dog",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_ANIMAL_TYPE",
+}
+`;
+
+exports[`Patient action creators updatePatientCategory 1`] = `
+Object {
+  "category": "human",
+  "id": 1,
+  "old": "animal",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_CATEGORY",
+}
+`;
+
+exports[`Patient action creators updatePatientCircumstance 1`] = `
+Object {
+  "circumstance": "New Circumstance",
+  "id": 1,
+  "old": "Old Circumstance",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_CIRCUMSTANCE",
+}
+`;
+
+exports[`Patient action creators updatePatientCountry 1`] = `
+Object {
+  "country": "New Zealand",
+  "id": 1,
+  "old": "Australia",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_COUNTRY",
+}
+`;
+
+exports[`Patient action creators updatePatientGeometry 1`] = `
+Object {
+  "geometry": Object {},
+  "id": 1,
+  "old": Object {},
+  "type": "pic/PatientEntry/UPDATE_PATIENT_GEOMETRY",
+}
+`;
+
+exports[`Patient action creators updatePatientISOCountry 1`] = `
+Object {
+  "id": 1,
+  "isoCountry": "NZ",
+  "old": "AU",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_ISOCOUNTRY",
+}
+`;
+
+exports[`Patient action creators updatePatientLocation 1`] = `
+Object {
+  "id": 1,
+  "location": "New Location",
+  "old": "Old Location",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_LOCATION",
+}
+`;
+
+exports[`Patient action creators updatePatientMedicalRecordNumber 1`] = `
+Object {
+  "appKey": undefined,
+  "id": 1,
+  "medicalRecordNumber": "5678",
+  "old": "1234",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_MEDICAL_RECORD_NUMBER",
+}
+`;
+
+exports[`Patient action creators updatePatientName 1`] = `
+Object {
+  "appKey": undefined,
+  "id": 1,
+  "name": "New Name",
+  "old": "Old Name",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_NAME",
+}
+`;
+
+exports[`Patient action creators updatePatientOccupation 1`] = `
+Object {
+  "id": 1,
+  "occupation": "New Occupation",
+  "old": "Old Occupation",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_OCCUPATION",
+}
+`;
+
+exports[`Patient action creators updatePatientPlaceId 1`] = `
+Object {
+  "id": 1,
+  "old": "Old Place Id",
+  "placeId": "New Place Id",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_PLACEID",
+}
+`;
+
+exports[`Patient action creators updatePatientPoisonSeverityScore 1`] = `
+Object {
+  "id": 1,
+  "old": "Minimal",
+  "poisonSeverityScore": "Minor",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_POISON_SEVERITY_SCORE",
+}
+`;
+
+exports[`Patient action creators updatePatientPostcode 1`] = `
+Object {
+  "id": 1,
+  "old": "6000",
+  "postcode": "3000",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_POSTCODE",
+}
+`;
+
+exports[`Patient action creators updatePatientPregnantLactating 1`] = `
+Object {
+  "id": 1,
+  "old": "No",
+  "pregnantLactating": "Yes",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_PREGNANT_LACTATING",
+}
+`;
+
+exports[`Patient action creators updatePatientPregnantStatus 1`] = `
+Object {
+  "id": 1,
+  "old": "No",
+  "pregnantStatus": "Yes",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_PREGNANT_STATUS",
+}
+`;
+
+exports[`Patient action creators updatePatientPregnantTrimester 1`] = `
+Object {
+  "id": 1,
+  "old": "1",
+  "pregnantTrimester": "2",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_PREGNANT_TRIMESTER",
+}
+`;
+
+exports[`Patient action creators updatePatientPregnantTrimesterUnknown 1`] = `
+Object {
+  "id": 1,
+  "old": false,
+  "pregnantTrimesterUnknown": true,
+  "type": "pic/PatientEntry/UPDATE_PATIENT_PREGNANT_TRIMESTER_UNKNOWN",
+}
+`;
+
+exports[`Patient action creators updatePatientRiskAssessment 1`] = `
+Object {
+  "id": 1,
+  "old": "Old Assessment",
+  "riskAssessment": "New Assessment",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_RISK_ASSESSMENT",
+}
+`;
+
+exports[`Patient action creators updatePatientSex 1`] = `
+Object {
+  "gender": "female",
+  "id": 1,
+  "old": "male",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_SEX",
+}
+`;
+
+exports[`Patient action creators updatePatientState 1`] = `
+Object {
+  "id": 1,
+  "old": "WA",
+  "state": "NSW",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_STATE",
+}
+`;
+
+exports[`Patient action creators updatePatientSuburb 1`] = `
+Object {
+  "id": 1,
+  "old": "Perth",
+  "suburb": "Sydney",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_SUBURB",
+}
+`;
+
+exports[`Patient action creators updatePatientTelephone 1`] = `
+Object {
+  "id": 1,
+  "old": "123456",
+  "telephone": "56789",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_TELEPHONE",
+}
+`;
+
+exports[`Patient action creators updatePatientWeight 1`] = `
+Object {
+  "id": 1,
+  "oldWeight": "80",
+  "oldWeightUnits": "kg",
+  "type": "pic/PatientEntry/UPDATE_PATIENT_WEIGHT",
+  "weight": "83",
+  "weightUnits": "kg",
+}
+`;

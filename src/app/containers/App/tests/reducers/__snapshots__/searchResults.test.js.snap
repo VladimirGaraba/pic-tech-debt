@@ -1,0 +1,45 @@
+exports[`searchResultsReducer logout 1`] = `
+Object {
+  "actionBar": Array [],
+  "caseList": Array [],
+  "newRecord": Array [],
+}
+`;
+
+exports[`searchResultsReducer returns the initial state 1`] = `
+Object {
+  "actionBar": Array [],
+  "caseList": Array [],
+  "newRecord": Array [],
+}
+`;
+
+exports[`searchResultsReducer update action bar search 1`] = `
+Object {
+  "actionBar": Array [
+    "Test data",
+  ],
+  "caseList": Array [],
+  "newRecord": Array [],
+}
+`;
+
+exports[`searchResultsReducer update case list search 1`] = `
+Object {
+  "actionBar": Array [],
+  "caseList": Array [
+    "Test data",
+  ],
+  "newRecord": Array [],
+}
+`;
+
+exports[`searchResultsReducer update new record search 1`] = `
+Object {
+  "actionBar": Array [],
+  "caseList": Array [],
+  "newRecord": Array [
+    "Test data",
+  ],
+}
+`;

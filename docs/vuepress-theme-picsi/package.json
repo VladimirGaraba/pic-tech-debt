@@ -1,0 +1,14 @@
+{
+  "name": "vuepress-theme-picsi",
+  "version": "1.0.0",
+  "description": "VuePress theme for PICSI",
+  "main": "Layout.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "picsi"
+  ],
+  "author": "Bret Watson",
+  "license": "UNLICENSED"
+}

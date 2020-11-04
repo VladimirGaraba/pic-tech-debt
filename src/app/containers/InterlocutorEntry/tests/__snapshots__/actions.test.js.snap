@@ -1,0 +1,192 @@
+exports[`App Actions Interlocutor action creators addCommunication 1`] = `
+Object {
+  "id": 1,
+  "spi": Object {
+    "id": "spi1",
+    "name": "SPI Name",
+    "siteId": "8",
+  },
+  "type": "pic/InterlocutorEntry/ADD_COMMUNICATION",
+}
+`;
+
+exports[`App Actions Interlocutor action creators replaceCommunications 1`] = `
+Object {
+  "communications": Array [
+    Object {},
+    Object {},
+  ],
+  "id": 1,
+  "type": "pic/InterlocutorEntry/REPLACE_COMMUNICATIONS",
+}
+`;
+
+exports[`App Actions Interlocutor action creators setPastFeaturesHistory 1`] = `
+Object {
+  "pastFeatures": 1,
+  "type": "pic/InterlocutorEntry/SET_PAST_FEATURES_HISTORY",
+}
+`;
+
+exports[`App Actions Interlocutor action creators setPastTreatmentHistory 1`] = `
+Object {
+  "pastTreatments": 1,
+  "type": "pic/InterlocutorEntry/SET_PAST_TREATMENT_HISTORY",
+}
+`;
+
+exports[`App Actions Interlocutor action creators updateCommunicationStatus 1`] = `
+Object {
+  "id": 1,
+  "immediate": false,
+  "status": "status",
+  "type": "UPDATE_COMMUNICATION_STATUS",
+}
+`;
+
+exports[`App Actions Interlocutor action creators updateInterlocutorAddress1 1`] = `
+Object {
+  "address1": "address 1",
+  "id": 1,
+  "type": "pic/InterlocutorEntry/UPDATE_INTERLOCUTOR_ADDRESS1",
+}
+`;
+
+exports[`App Actions Interlocutor action creators updateInterlocutorAddress2 1`] = `
+Object {
+  "address2": "address 2",
+  "id": 1,
+  "type": "pic/InterlocutorEntry/UPDATE_INTERLOCUTOR_ADDRESS2",
+}
+`;
+
+exports[`App Actions Interlocutor action creators updateInterlocutorCategory 1`] = `
+Object {
+  "category": "category",
+  "id": 1,
+  "type": "pic/InterlocutorEntry/UPDATE_INTERLOCUTOR_CATEGORY",
+}
+`;
+
+exports[`App Actions Interlocutor action creators updateInterlocutorCity 1`] = `
+Object {
+  "city": "city",
+  "id": 1,
+  "type": "pic/InterlocutorEntry/UPDATE_INTERLOCUTOR_CITY",
+}
+`;
+
+exports[`App Actions Interlocutor action creators updateInterlocutorContactDetail 1`] = `
+Object {
+  "contact": "contact detail",
+  "id": 1,
+  "type": "pic/InterlocutorEntry/UPDATE_INTERLOCUTOR_CONTACT_DETAIL",
+}
+`;
+
+exports[`App Actions Interlocutor action creators updateInterlocutorCountry 1`] = `
+Object {
+  "country": "country",
+  "id": 1,
+  "type": "pic/InterlocutorEntry/UPDATE_INTERLOCUTOR_COUNTRY",
+}
+`;
+
+exports[`App Actions Interlocutor action creators updateInterlocutorDirection 1`] = `
+Object {
+  "direction": "direction",
+  "id": 1,
+  "type": "pic/InterlocutorEntry/UPDATE_INTERLOCUTOR_DIRECTION",
+}
+`;
+
+exports[`App Actions Interlocutor action creators updateInterlocutorGeometry 1`] = `
+Object {
+  "geometry": Object {},
+  "id": 1,
+  "type": "pic/InterlocutorEntry/UPDATE_INTERLOCUTOR_GEOMETRY",
+}
+`;
+
+exports[`App Actions Interlocutor action creators updateInterlocutorISOCountry 1`] = `
+Object {
+  "id": 1,
+  "isoCountry": "AU",
+  "type": "pic/InterlocutorEntry/UPDATE_INTERLOCUTOR_ISOCOUNTRY",
+}
+`;
+
+exports[`App Actions Interlocutor action creators updateInterlocutorLocation 1`] = `
+Object {
+  "id": 1,
+  "location": undefined,
+  "old": "location",
+  "type": "pic/InterlocutorEntry/UPDATE_INTERLOCUTOR_LOCATION",
+}
+`;
+
+exports[`App Actions Interlocutor action creators updateInterlocutorMedium 1`] = `
+Object {
+  "id": 1,
+  "medium": "medium",
+  "type": "pic/InterlocutorEntry/UPDATE_INTERLOCUTOR_MEDIUM",
+}
+`;
+
+exports[`App Actions Interlocutor action creators updateInterlocutorMediumDetail 1`] = `
+Object {
+  "appKey": undefined,
+  "detail": "medium detail",
+  "id": 1,
+  "type": "pic/InterlocutorEntry/UPDATE_INTERLOCUTOR_MEDIUM_DETAIL",
+}
+`;
+
+exports[`App Actions Interlocutor action creators updateInterlocutorName 1`] = `
+Object {
+  "appKey": undefined,
+  "id": 1,
+  "name": "caller name",
+  "type": "pic/InterlocutorEntry/UPDATE_INTERLOCUTOR_NAME",
+}
+`;
+
+exports[`App Actions Interlocutor action creators updateInterlocutorOrganisation 1`] = `
+Object {
+  "id": 1,
+  "organisation": "org",
+  "type": "pic/InterlocutorEntry/UPDATE_INTERLOCUTOR_ORGANISATION",
+}
+`;
+
+exports[`App Actions Interlocutor action creators updateInterlocutorPlaceId 1`] = `
+Object {
+  "id": 1,
+  "placeId": "placeid",
+  "type": "pic/InterlocutorEntry/UPDATE_INTERLOCUTOR_PLACEID",
+}
+`;
+
+exports[`App Actions Interlocutor action creators updateInterlocutorPostcode 1`] = `
+Object {
+  "id": 1,
+  "postcode": "postcode",
+  "type": "pic/InterlocutorEntry/UPDATE_INTERLOCUTOR_POSTCODE",
+}
+`;
+
+exports[`App Actions Interlocutor action creators updateInterlocutorState 1`] = `
+Object {
+  "id": 1,
+  "state": "state",
+  "type": "pic/InterlocutorEntry/UPDATE_INTERLOCUTOR_STATE",
+}
+`;
+
+exports[`App Actions Interlocutor action creators updateInterlocutorTelephone 1`] = `
+Object {
+  "id": 1,
+  "telephone": "telephone",
+  "type": "pic/InterlocutorEntry/UPDATE_INTERLOCUTOR_TELEPHONE",
+}
+`;

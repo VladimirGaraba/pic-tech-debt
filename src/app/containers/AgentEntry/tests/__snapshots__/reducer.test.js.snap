@@ -1,0 +1,36 @@
+exports[`agentsReducer add agent 1`] = `
+Array [
+  Object {
+    "id": 1,
+  },
+  Object {
+    "category": "",
+    "centreAgents": Array [],
+    "dosage": Object {
+      "quantity": "1",
+      "units": "mg",
+      "unknown": false,
+    },
+    "eupcs": "",
+    "exposure": Object {
+      "duration": "1",
+      "durationUnits": "hour",
+      "durationUnknown": false,
+      "route": "Ingested",
+      "timeSince": "",
+      "timeSinceUnits": "",
+      "timestamp": "2018-04-14 14:25:00",
+      "type": "Test Exposure Type",
+    },
+    "id": "123456",
+    "intendedUseGiven": "",
+    "isPatientsOwnMedication": false,
+    "name": "Test Agent",
+    "type": Array [],
+  },
+]
+`;
+
+exports[`agentsReducer delete agent 1`] = `Array []`;
+
+exports[`agentsReducer returns the initial state 1`] = `Array []`;

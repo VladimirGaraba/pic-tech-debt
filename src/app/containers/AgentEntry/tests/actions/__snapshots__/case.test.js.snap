@@ -1,0 +1,324 @@
+exports[`Treatments action creators addAgent 1`] = `
+Object {
+  "agentId": "123456",
+  "duration": "1",
+  "durationUnits": "hour",
+  "durationUnknown": false,
+  "id": 1,
+  "interlocutorAgentName": "Test Agent",
+  "quantity": "1",
+  "quantityUnits": "mg",
+  "quantityUnknown": false,
+  "routeOfExposure": "Ingested",
+  "timestamp": "2018-04-14 14:25:00",
+  "type": "pic/AgentEntry/ADD_AGENT",
+  "typeOfExposure": "Test Exposure Type",
+}
+`;
+
+exports[`Treatments action creators addAgentCentreAgent 1`] = `
+Object {
+  "agentId": 1,
+  "id": 1,
+  "name": "Test Agent",
+  "quantity": "1",
+  "type": "pic/AgentEntry/ADD_AGENT_CENTRE_AGENT",
+  "units": "mg",
+  "url": "",
+}
+`;
+
+exports[`Treatments action creators deleteAgent 1`] = `
+Object {
+  "agentId": 1,
+  "agentName": "Test Agent",
+  "id": 1,
+  "type": "pic/AgentEntry/DELETE_AGENT",
+}
+`;
+
+exports[`Treatments action creators hideAgentModal 1`] = `
+Object {
+  "type": "pic/AgentEntry/HIDE_AGENT_MODAL",
+}
+`;
+
+exports[`Treatments action creators removeAgentCentreAgent 1`] = `
+Object {
+  "agentId": 1,
+  "id": 1,
+  "index": 1,
+  "name": "Test Agent",
+  "type": "pic/AgentEntry/REMOVE_AGENT_CENTRE_AGENT",
+}
+`;
+
+exports[`Treatments action creators resetAgentView 1`] = `
+Object {
+  "type": "pic/AgentEntry/RESET_AGENT_VIEW",
+}
+`;
+
+exports[`Treatments action creators resetQuickView 1`] = `
+Object {
+  "type": "pic/AgentEntry/RESET_QUICK_VIEW",
+}
+`;
+
+exports[`Treatments action creators setAgentTab 1`] = `
+Object {
+  "tab": 1,
+  "type": "pic/AgentEntry/SET_AGENT_TAB",
+}
+`;
+
+exports[`Treatments action creators showAgentModal 1`] = `
+Object {
+  "requestIx": 1,
+  "type": "pic/AgentEntry/SHOW_AGENT_MODAL",
+}
+`;
+
+exports[`Treatments action creators updateAgentCategory 1`] = `
+Object {
+  "agentId": 1,
+  "category": "New Category",
+  "id": 1,
+  "old": "Old Category",
+  "type": "pic/AgentEntry/UPDATE_AGENT_CATEGORY",
+}
+`;
+
+exports[`Treatments action creators updateAgentCentreAgent 1`] = `
+Object {
+  "agentId": 1,
+  "id": 1,
+  "index": 1,
+  "name": "Centre Agent",
+  "quantity": "1",
+  "type": "pic/AgentEntry/UPDATE_AGENT_CENTRE_AGENT",
+  "units": "mg",
+  "url": "",
+}
+`;
+
+exports[`Treatments action creators updateAgentDuration 1`] = `
+Object {
+  "agentId": 1,
+  "duration": "1",
+  "durationUnits": "hours",
+  "durationUnknown": false,
+  "id": 1,
+  "oldDuration": 1,
+  "oldDurationUnits": "2",
+  "oldDurationUnknown": "hours",
+  "type": "pic/AgentEntry/UPDATE_AGENT_DURATION",
+}
+`;
+
+exports[`Treatments action creators updateAgentEUPCS 1`] = `
+Object {
+  "agentId": 1,
+  "eupcs": "1",
+  "id": 1,
+  "old": 1,
+  "type": "pic/AgentEntry/UPDATE_AGENT_EUPCS",
+}
+`;
+
+exports[`Treatments action creators updateAgentIntendedUseGiven 1`] = `
+Object {
+  "agentId": 1,
+  "id": 1,
+  "intendedUseGiven": "New Intended Use",
+  "old": "Old Intended Use",
+  "type": "pic/AgentEntry/UPDATE_AGENT_INTENDED_USE_GIVEN",
+}
+`;
+
+exports[`Treatments action creators updateAgentInterlocutorAgentName 1`] = `
+Object {
+  "agentId": 1,
+  "id": 1,
+  "interlocutorAgentName": "Old Agent Name",
+  "type": "pic/AgentEntry/UPDATE_AGENT_INTERLOCUTOR_AGENT_NAME",
+}
+`;
+
+exports[`Treatments action creators updateAgentIsPatientsOwnMedication 1`] = `
+Object {
+  "agentId": 1,
+  "id": 1,
+  "isPatientsOwnMedication": false,
+  "old": true,
+  "type": "pic/AgentEntry/UPDATE_AGENT_IS_PATIENTS_OWN_MEDICATION",
+}
+`;
+
+exports[`Treatments action creators updateAgentQuantity 1`] = `
+Object {
+  "agentId": 1,
+  "id": 1,
+  "oldQuantity": "1",
+  "oldQuantityUnits": "mg",
+  "oldQuantityUnknown": false,
+  "quantity": "2",
+  "quantityUnits": "g",
+  "quantityUnknown": false,
+  "type": "pic/AgentEntry/UPDATE_AGENT_QUANTITY",
+}
+`;
+
+exports[`Treatments action creators updateAgentRouteOfExposure 1`] = `
+Object {
+  "agentId": 1,
+  "id": 1,
+  "old": Array [
+    "Old Exposure",
+  ],
+  "routeOfExposure": Array [
+    "New Exposure",
+  ],
+  "type": "pic/AgentEntry/UPDATE_AGENT_ROUTE_OF_EXPOSURE",
+}
+`;
+
+exports[`Treatments action creators updateAgentTimeOfExposure 1`] = `
+Object {
+  "agentId": 1,
+  "id": 1,
+  "oldTimeOfExposure": "Old Time of Exposure",
+  "timeOfExposure": "New Time of Exposure",
+  "type": "pic/AgentEntry/UPDATE_AGENT_TIME_OF_EXPOSURE",
+}
+`;
+
+exports[`Treatments action creators updateAgentTimeSinceExposure 1`] = `
+Object {
+  "agentId": 1,
+  "id": 1,
+  "old": "Old Time Since",
+  "timeSinceExposure": "New Time Since",
+  "type": "pic/AgentEntry/UPDATE_AGENT_TIME_SINCE_EXPOSURE",
+}
+`;
+
+exports[`Treatments action creators updateAgentTimeSinceExposureUnits 1`] = `
+Object {
+  "agentId": 1,
+  "id": 1,
+  "old": "Old Time Since Units",
+  "timeSinceExposureUnits": "New Time Since Units",
+  "type": "pic/AgentEntry/UPDATE_AGENT_TIME_SINCE_EXPOSURE_UNITS",
+}
+`;
+
+exports[`Treatments action creators updateAgentTypeOfExposure 1`] = `
+Object {
+  "agentId": 1,
+  "id": 1,
+  "old": "Old Type of Exposure",
+  "type": "pic/AgentEntry/UPDATE_AGENT_TYPE_OF_EXPOSURE",
+  "typeOfExposure": "New Type of Exposure",
+}
+`;
+
+exports[`Treatments action creators updateAgentUseType 1`] = `
+Object {
+  "agentId": 1,
+  "id": 1,
+  "old": Array [
+    "Old Use Type",
+  ],
+  "type": "pic/AgentEntry/UPDATE_AGENT_USE_TYPE",
+  "useType": Array [
+    "New Use Type",
+  ],
+}
+`;
+
+exports[`Treatments action creators updateQuickViewAgentDuration 1`] = `
+Object {
+  "duration": 1,
+  "type": "pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_DURATION",
+}
+`;
+
+exports[`Treatments action creators updateQuickViewAgentDurationUnits 1`] = `
+Object {
+  "durationUnits": "kg",
+  "type": "pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_DURATION_UNITS",
+}
+`;
+
+exports[`Treatments action creators updateQuickViewAgentDurationUnknown 1`] = `
+Object {
+  "durationUnknown": false,
+  "type": "pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_DURATION_UNKNOWN",
+}
+`;
+
+exports[`Treatments action creators updateQuickViewAgentName 1`] = `
+Object {
+  "interlocutorAgentName": "Agent Name",
+  "type": "pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_NAME",
+}
+`;
+
+exports[`Treatments action creators updateQuickViewAgentQuantity 1`] = `
+Object {
+  "quantity": 10,
+  "type": "pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_QUANTITY",
+}
+`;
+
+exports[`Treatments action creators updateQuickViewAgentQuantityUnits 1`] = `
+Object {
+  "quantityUnits": "g",
+  "type": "pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_QUANTITY_UNITS",
+}
+`;
+
+exports[`Treatments action creators updateQuickViewAgentQuantityUnknown 1`] = `
+Object {
+  "quantityUnknown": false,
+  "type": "pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_QUANTITY_UNKNOWN",
+}
+`;
+
+exports[`Treatments action creators updateQuickViewAgentRouteOfExposure 1`] = `
+Object {
+  "routeOfExposure": Array [
+    "Oral",
+  ],
+  "type": "pic/AgentEntry/UPDATE_AGENT_VIEW_ROUTE_OF_EXPOSURE",
+}
+`;
+
+exports[`Treatments action creators updateQuickViewAgentTimeOfExposure 1`] = `
+Object {
+  "timeOfExposure": "2018-01-14 15:40:00",
+  "type": "pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_TIME_OF_EXPOSURE",
+}
+`;
+
+exports[`Treatments action creators updateQuickViewAgentTimeSinceExposure 1`] = `
+Object {
+  "timeSinceExposure": "2",
+  "type": "pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_TIME_SINCE_EXPOSURE",
+}
+`;
+
+exports[`Treatments action creators updateQuickViewAgentTimeSinceExposureUnits 1`] = `
+Object {
+  "timeSinceExposureUnits": "kg",
+  "type": "pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_TIME_SINCE_EXPOSURE_UNITS",
+}
+`;
+
+exports[`Treatments action creators updateQuickViewAgentTypeOfExposure 1`] = `
+Object {
+  "type": "pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_TYPE_OF_EXPOSURE",
+  "typeOfExposure": "Test Type",
+}
+`;

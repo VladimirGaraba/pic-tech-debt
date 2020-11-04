@@ -1,0 +1,88 @@
+exports[`investigationsViewResultReducer hide investigations view result modal 1`] = `
+Object {
+  "attachments": Array [],
+  "content": "",
+  "description": "",
+  "requestIx": "",
+  "show": false,
+}
+`;
+
+exports[`investigationsViewResultReducer remove investigations view result attachment 1`] = `
+Object {
+  "attachments": Array [
+    0,
+    2,
+    3,
+    4,
+  ],
+  "content": "",
+  "description": "",
+  "requestIx": "",
+  "show": false,
+}
+`;
+
+exports[`investigationsViewResultReducer reset investigations view result 1`] = `
+Object {
+  "attachments": Array [],
+  "content": "",
+  "description": "",
+  "requestIx": "",
+  "show": false,
+}
+`;
+
+exports[`investigationsViewResultReducer returns the initial state 1`] = `
+Object {
+  "attachments": Array [],
+  "content": "",
+  "description": "",
+  "requestIx": "",
+  "show": false,
+}
+`;
+
+exports[`investigationsViewResultReducer show investigations view result modal 1`] = `
+Object {
+  "attachments": Array [],
+  "content": "",
+  "description": "",
+  "requestIx": 1,
+  "show": true,
+}
+`;
+
+exports[`investigationsViewResultReducer update investigations view result attachments 1`] = `
+Object {
+  "attachments": Array [
+    1,
+    2,
+    3,
+  ],
+  "content": "",
+  "description": "",
+  "requestIx": "",
+  "show": false,
+}
+`;
+
+exports[`investigationsViewResultReducer update investigations view result description 1`] = `
+Object {
+  "attachments": Array [],
+  "content": "",
+  "description": "Test Description",
+  "requestIx": "",
+  "show": false,
+}
+`;
+
+exports[`investigationsViewResultReducer update investigations view result notes 1`] = `
+Object {
+  "attachments": Array [],
+  "content": "Test Content",
+  "description": "",
+  "requestIx": "",
+  "show": false,
+}
+`;

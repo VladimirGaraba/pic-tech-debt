@@ -1,0 +1,39 @@
+exports[`ReferralsViewReducer reset referrals view 1`] = `
+Object {
+  "referee": "",
+  "refereeSite": "",
+  "specialty": "",
+}
+`;
+
+exports[`ReferralsViewReducer returns the initial state 1`] = `
+Object {
+  "referee": "",
+  "refereeSite": "",
+  "specialty": "",
+}
+`;
+
+exports[`ReferralsViewReducer update referrals view referee 1`] = `
+Object {
+  "referee": "Test Referee",
+  "refereeSite": 1,
+  "specialty": "Test",
+}
+`;
+
+exports[`ReferralsViewReducer update referrals view referee site 1`] = `
+Object {
+  "referee": "Test",
+  "refereeSite": "Test Referee Site",
+  "specialty": "Test",
+}
+`;
+
+exports[`ReferralsViewReducer update referrals view specialty 1`] = `
+Object {
+  "referee": "Test",
+  "refereeSite": 1,
+  "specialty": "Test Specialty",
+}
+`;

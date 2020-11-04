@@ -1,0 +1,43 @@
+exports[`Patient action constants REPLACE_PATIENT_MEDICAL_RECORD_NUMBER 1`] = `"pic/PatientEntry/REPLACE_PATIENT_MEDICAL_RECORD_NUMBER"`;
+
+exports[`Patient action constants REPLACE_PATIENT_NAME 1`] = `"pic/PatientEntry/REPLACE_PATIENT_NAME"`;
+
+exports[`Patient action constants UPDATE_PATIENT_AGE 1`] = `"pic/PatientEntry/UPDATE_PATIENT_AGE"`;
+
+exports[`Patient action constants UPDATE_PATIENT_AGE_GROUP 1`] = `"pic/PatientEntry/UPDATE_PATIENT_AGE_GROUP"`;
+
+exports[`Patient action constants UPDATE_PATIENT_ANIMAL_TYPE 1`] = `"pic/PatientEntry/UPDATE_PATIENT_ANIMAL_TYPE"`;
+
+exports[`Patient action constants UPDATE_PATIENT_CATEGORY 1`] = `"pic/PatientEntry/UPDATE_PATIENT_CATEGORY"`;
+
+exports[`Patient action constants UPDATE_PATIENT_CIRCUMSTANCE 1`] = `"pic/PatientEntry/UPDATE_PATIENT_CIRCUMSTANCE"`;
+
+exports[`Patient action constants UPDATE_PATIENT_GEOMETRY 1`] = `"pic/PatientEntry/UPDATE_PATIENT_GEOMETRY"`;
+
+exports[`Patient action constants UPDATE_PATIENT_LOCATION 1`] = `"pic/PatientEntry/UPDATE_PATIENT_LOCATION"`;
+
+exports[`Patient action constants UPDATE_PATIENT_MEDICAL_RECORD_NUMBER 1`] = `"pic/PatientEntry/UPDATE_PATIENT_MEDICAL_RECORD_NUMBER"`;
+
+exports[`Patient action constants UPDATE_PATIENT_NAME 1`] = `"pic/PatientEntry/UPDATE_PATIENT_NAME"`;
+
+exports[`Patient action constants UPDATE_PATIENT_OCCUPATION 1`] = `"pic/PatientEntry/UPDATE_PATIENT_OCCUPATION"`;
+
+exports[`Patient action constants UPDATE_PATIENT_POISON_SEVERITY_SCORE 1`] = `"pic/PatientEntry/UPDATE_PATIENT_POISON_SEVERITY_SCORE"`;
+
+exports[`Patient action constants UPDATE_PATIENT_POSTCODE 1`] = `"pic/PatientEntry/UPDATE_PATIENT_POSTCODE"`;
+
+exports[`Patient action constants UPDATE_PATIENT_PREGNANT_LACTATING 1`] = `"pic/PatientEntry/UPDATE_PATIENT_PREGNANT_LACTATING"`;
+
+exports[`Patient action constants UPDATE_PATIENT_PREGNANT_STATUS 1`] = `"pic/PatientEntry/UPDATE_PATIENT_PREGNANT_STATUS"`;
+
+exports[`Patient action constants UPDATE_PATIENT_PREGNANT_TRIMESTER 1`] = `"pic/PatientEntry/UPDATE_PATIENT_PREGNANT_TRIMESTER"`;
+
+exports[`Patient action constants UPDATE_PATIENT_PREGNANT_TRIMESTER_UNKNOWN 1`] = `"pic/PatientEntry/UPDATE_PATIENT_PREGNANT_TRIMESTER_UNKNOWN"`;
+
+exports[`Patient action constants UPDATE_PATIENT_RISK_ASSESSMENT 1`] = `"pic/PatientEntry/UPDATE_PATIENT_RISK_ASSESSMENT"`;
+
+exports[`Patient action constants UPDATE_PATIENT_SEX 1`] = `"pic/PatientEntry/UPDATE_PATIENT_SEX"`;
+
+exports[`Patient action constants UPDATE_PATIENT_SUBURB 1`] = `"pic/PatientEntry/UPDATE_PATIENT_SUBURB"`;
+
+exports[`Patient action constants UPDATE_PATIENT_WEIGHT 1`] = `"pic/PatientEntry/UPDATE_PATIENT_WEIGHT"`;

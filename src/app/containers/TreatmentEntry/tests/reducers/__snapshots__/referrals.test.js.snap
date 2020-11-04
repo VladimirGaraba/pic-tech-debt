@@ -1,0 +1,12 @@
+exports[`ReferralsReducer returns the initial state 1`] = `Array []`;
+
+exports[`ReferralsReducer update referrals 1`] = `
+Array [
+  Object {
+    "referee": "Test Referee",
+    "refereeSite": 2,
+    "specialty": "Test Specialty",
+    "timestamp": "2018-04-07T17:08:00.000Z",
+  },
+]
+`;

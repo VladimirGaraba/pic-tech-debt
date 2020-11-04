@@ -1,0 +1,44 @@
+exports[`PregnantReducer returns the initial state 1`] = `
+Object {
+  "lactating": "unknown",
+  "status": "unknown",
+  "trimester": "unknown",
+  "trimesterUnknown": null,
+}
+`;
+
+exports[`PregnantReducer update lactating 1`] = `
+Object {
+  "lactating": true,
+  "status": "unknown",
+  "trimester": "unknown",
+  "trimesterUnknown": null,
+}
+`;
+
+exports[`PregnantReducer update status 1`] = `
+Object {
+  "lactating": "unknown",
+  "status": "New Status",
+  "trimester": "unknown",
+  "trimesterUnknown": null,
+}
+`;
+
+exports[`PregnantReducer update trimester 1`] = `
+Object {
+  "lactating": "unknown",
+  "status": "unknown",
+  "trimester": 2,
+  "trimesterUnknown": null,
+}
+`;
+
+exports[`PregnantReducer update trimesterUnknown 1`] = `
+Object {
+  "lactating": "unknown",
+  "status": "unknown",
+  "trimester": "unknown",
+  "trimesterUnknown": false,
+}
+`;

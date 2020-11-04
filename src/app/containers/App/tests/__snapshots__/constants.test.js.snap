@@ -1,0 +1,67 @@
+exports[`App action constants BATCH_INSERT_DOCUMENT 1`] = `"pic/App/BATCH_INSERT_DOCUMENT"`;
+
+exports[`App action constants CHANGE_FORM 1`] = `"pic/App/CHANGE_FORM"`;
+
+exports[`App action constants CLEAR_ERROR 1`] = `"pic/App/CLEAR_ERROR"`;
+
+exports[`App action constants DEFAULT_LOCALE 1`] = `"en"`;
+
+exports[`App action constants DEFAULT_UIMODE 1`] = `"default"`;
+
+exports[`App action constants DELETE_DOCUMENT 1`] = `"pic/App/DELETE_DOCUMENT"`;
+
+exports[`App action constants DISPLAY_RECORD 1`] = `"pic/App/DISPLAY_RECORD"`;
+
+exports[`App action constants DISPLAY_TEMPLATE 1`] = `"pic/App/DISPLAY_TEMPLATE"`;
+
+exports[`App action constants EDITTEMPLATE_UIMODE 1`] = `"editTemplate"`;
+
+exports[`App action constants EXECUTE_SEARCH 1`] = `"pic/App/EXECUTE_SEARCH"`;
+
+exports[`App action constants INIT_SITE_CONFIG 1`] = `"pic/App/INIT_SITE_CONFIG"`;
+
+exports[`App action constants INSERT_DOCUMENT 1`] = `"pic/App/INSERT_DOCUMENT"`;
+
+exports[`App action constants LOAD_REPOS 1`] = `"boilerplate/App/LOAD_REPOS"`;
+
+exports[`App action constants LOAD_REPOS_ERROR 1`] = `"boilerplate/App/LOAD_REPOS_ERROR"`;
+
+exports[`App action constants LOAD_REPOS_SUCCESS 1`] = `"boilerplate/App/LOAD_REPOS_SUCCESS"`;
+
+exports[`App action constants LOGIN_REQUEST 1`] = `"pic/App/LOGIN_REQUEST"`;
+
+exports[`App action constants LOGOUT 1`] = `"pic/App/LOGOUT"`;
+
+exports[`App action constants LOOKUP_MACRO 1`] = `"pic/App/LOOKUP_MACRO"`;
+
+exports[`App action constants REGISTER_REQUEST 1`] = `"pic/App/REGISTER_REQUEST"`;
+
+exports[`App action constants REQUEST_ERROR 1`] = `"pic/App/REQUEST_ERROR"`;
+
+exports[`App action constants SENDING_REQUEST 1`] = `"pic/App/SENDING_REQUEST"`;
+
+exports[`App action constants SET_AUTH 1`] = `"pic/App/SET_AUTH"`;
+
+exports[`App action constants SET_TAB 1`] = `"pic/App/SET_TAB"`;
+
+exports[`App action constants SET_UI_MODE_DEFAULT 1`] = `"pic/App/SET_UI_MODE_DEFAULT"`;
+
+exports[`App action constants SET_UI_MODE_EDIT_TEMPLATES 1`] = `"pic/App/SET_UI_MODE_EDIT_TEMPLATES"`;
+
+exports[`App action constants STORE_KEY 1`] = `"pic/App/STORE_KEY"`;
+
+exports[`App action constants SW_UPDATED 1`] = `"pic/App/SW_UPDATED"`;
+
+exports[`App action constants SYNCING_POUCH 1`] = `"pic/App/SYNCING_POUCH"`;
+
+exports[`App action constants UPDATE_ACTION_BAR_SEARCH_RESULTS 1`] = `"pic/App/UPDATE_ACTION_BAR_SEARCH_RESULTS"`;
+
+exports[`App action constants UPDATE_CASE_LIST_SEARCH_RESULTS 1`] = `"pic/App/UPDATE_CASE_LIST_SEARCH_RESULTS"`;
+
+exports[`App action constants UPDATE_DOCUMENT 1`] = `"pic/App/UPDATE_DOCUMENT"`;
+
+exports[`App action constants UPDATE_MACRO 1`] = `"pic/App/UPDATE_MACRO"`;
+
+exports[`App action constants UPDATE_NEW_RECORD_SEARCH_RESULTS 1`] = `"pic/App/UPDATE_NEW_RECORD_SEARCH_RESULTS"`;
+
+exports[`App action constants UPDATE_TOXICOLOGY_SOURCE 1`] = `"pic/App/TOXICOLOGY_SOURCE"`;

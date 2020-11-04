@@ -1,0 +1,220 @@
+exports[`App Actions App action creators batchInsertDocument 1`] = `
+Object {
+  "documents": Array [
+    Object {
+      "name": "Case 1",
+    },
+    Object {
+      "name": "Case 2",
+    },
+  ],
+  "type": "pic/App/BATCH_INSERT_DOCUMENT",
+}
+`;
+
+exports[`App Actions App action creators changeForm 1`] = `
+Object {
+  "newFormState": Object {
+    "password": "New form password",
+    "username": "New form user",
+  },
+  "type": "pic/App/CHANGE_FORM",
+}
+`;
+
+exports[`App Actions App action creators clearError 1`] = `
+Object {
+  "type": "pic/App/CLEAR_ERROR",
+}
+`;
+
+exports[`App Actions App action creators deleteDocument 1`] = `
+Object {
+  "id": 1,
+  "type": "pic/App/DELETE_DOCUMENT",
+}
+`;
+
+exports[`App Actions App action creators displayRecord 1`] = `
+Object {
+  "id": 1,
+  "type": "pic/App/DISPLAY_RECORD",
+}
+`;
+
+exports[`App Actions App action creators displayTemplate 1`] = `
+Object {
+  "templateId": 1,
+  "type": "pic/App/DISPLAY_TEMPLATE",
+}
+`;
+
+exports[`App Actions App action creators executeSearch 1`] = `
+Object {
+  "context": undefined,
+  "criteria": undefined,
+  "type": "pic/App/EXECUTE_SEARCH",
+}
+`;
+
+exports[`App Actions App action creators initSiteConfig 1`] = `
+Object {
+  "configId": undefined,
+  "siteId": undefined,
+  "type": "pic/App/INIT_SITE_CONFIG",
+}
+`;
+
+exports[`App Actions App action creators insertDocument 1`] = `
+Object {
+  "document": Object {
+    "name": "Case 1",
+  },
+  "type": "pic/App/INSERT_DOCUMENT",
+}
+`;
+
+exports[`App Actions App action creators loginRequest 1`] = `
+Object {
+  "data": Object {
+    "name": "Test user",
+  },
+  "type": "pic/App/LOGIN_REQUEST",
+}
+`;
+
+exports[`App Actions App action creators logout 1`] = `
+Object {
+  "type": "pic/App/LOGOUT",
+}
+`;
+
+exports[`App Actions App action creators lookupMacroTemplate 1`] = `
+Object {
+  "macro": "macro",
+  "type": "pic/App/LOOKUP_MACRO",
+}
+`;
+
+exports[`App Actions App action creators registerRequest 1`] = `
+Object {
+  "data": Object {
+    "name": "Test request",
+  },
+  "type": "pic/App/REGISTER_REQUEST",
+}
+`;
+
+exports[`App Actions App action creators requestError 1`] = `
+Object {
+  "error": Object {
+    "name": "Test error",
+  },
+  "type": "pic/App/REQUEST_ERROR",
+}
+`;
+
+exports[`App Actions App action creators sendingRequest 1`] = `
+Object {
+  "sending": true,
+  "type": "pic/App/SENDING_REQUEST",
+}
+`;
+
+exports[`App Actions App action creators setAuthState 1`] = `
+Object {
+  "newAuthState": false,
+  "token": undefined,
+  "type": "pic/App/SET_AUTH",
+}
+`;
+
+exports[`App Actions App action creators setTab 1`] = `
+Object {
+  "tab": 1,
+  "type": "pic/App/SET_TAB",
+}
+`;
+
+exports[`App Actions App action creators setUiModeDefault 1`] = `
+Object {
+  "type": "pic/App/SET_UI_MODE_DEFAULT",
+}
+`;
+
+exports[`App Actions App action creators setUiModeEditTemplate 1`] = `
+Object {
+  "type": "pic/App/SET_UI_MODE_EDIT_TEMPLATES",
+}
+`;
+
+exports[`App Actions App action creators storeKey 1`] = `
+Object {
+  "appKey": "appKey",
+  "appKeyId": "appKeyId",
+  "type": "pic/App/STORE_KEY",
+}
+`;
+
+exports[`App Actions App action creators swUpdated 1`] = `
+Object {
+  "type": "pic/App/SW_UPDATED",
+}
+`;
+
+exports[`App Actions App action creators syncingPouch 1`] = `
+Object {
+  "syncing": true,
+  "type": "pic/App/SYNCING_POUCH",
+}
+`;
+
+exports[`App Actions App action creators updateActionBarSearchResults 1`] = `
+Object {
+  "results": Array [
+    "Test Results",
+  ],
+  "type": "pic/App/UPDATE_ACTION_BAR_SEARCH_RESULTS",
+}
+`;
+
+exports[`App Actions App action creators updateCaseListSearchResults 1`] = `
+Object {
+  "results": Array [
+    "Test Results",
+  ],
+  "type": "pic/App/UPDATE_CASE_LIST_SEARCH_RESULTS",
+}
+`;
+
+exports[`App Actions App action creators updateDocument 1`] = `
+Object {
+  "document": Object {
+    "name": "Test Case",
+  },
+  "type": "pic/App/UPDATE_DOCUMENT",
+}
+`;
+
+exports[`App Actions App action creators updateMacro 1`] = `
+Object {
+  "macro": "macro",
+  "type": "pic/App/UPDATE_MACRO",
+}
+`;
+
+exports[`App Actions App action creators updateNewRecordSearchResults 1`] = `
+Object {
+  "results": Array [
+    "Test Results",
+  ],
+  "type": "pic/App/UPDATE_NEW_RECORD_SEARCH_RESULTS",
+}
+`;
+
+exports[`App Actions App action creators updateToxicologySource 1`] = `
+Object {
+  "toxicologySource": undefined,
+  "type": "pic/App/TOXICOLOGY_SOURCE",
+}
+`;

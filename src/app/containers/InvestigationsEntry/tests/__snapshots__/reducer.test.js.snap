@@ -1,0 +1,20 @@
+exports[`InvestigationsReducer returns the initial state 1`] = `Array []`;
+
+exports[`InvestigationsReducer update requests 1`] = `
+Array [
+  Object {
+    "request": 1,
+    "results": Array [],
+  },
+]
+`;
+
+exports[`InvestigationsReducer update results 1`] = `
+Array [
+  Object {
+    "results": Array [
+      4,
+    ],
+  },
+]
+`;

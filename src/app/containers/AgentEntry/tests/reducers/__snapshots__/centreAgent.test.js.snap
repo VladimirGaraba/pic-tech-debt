@@ -1,0 +1,26 @@
+exports[`agentsReducer add agent centre agent 1`] = `
+Object {
+  "name": "Test Agent",
+  "quantity": "1",
+  "units": "mg",
+  "url": "",
+}
+`;
+
+exports[`agentsReducer returns the initial state 1`] = `
+Object {
+  "name": "",
+  "quantity": "",
+  "units": "",
+  "url": "",
+}
+`;
+
+exports[`agentsReducer update agent centre agent 1`] = `
+Object {
+  "name": "Test Agent",
+  "quantity": "1",
+  "units": "mg",
+  "url": "Test URL",
+}
+`;

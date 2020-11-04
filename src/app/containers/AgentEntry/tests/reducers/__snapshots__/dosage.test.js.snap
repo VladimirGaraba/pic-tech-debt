@@ -1,0 +1,47 @@
+exports[`dosageReducer add agent 1`] = `
+Object {
+  "quantity": "1",
+  "units": "mg",
+  "unknown": false,
+}
+`;
+
+exports[`dosageReducer returns the initial state 1`] = `
+Object {
+  "quantity": "",
+  "units": "",
+  "unknown": false,
+}
+`;
+
+exports[`dosageReducer update agent quantity 1`] = `
+Object {
+  "quantity": "2",
+  "units": "g",
+  "unknown": false,
+}
+`;
+
+exports[`dosageReducer update quick view agent quantity 1`] = `
+Object {
+  "quantity": 10,
+  "units": "",
+  "unknown": false,
+}
+`;
+
+exports[`dosageReducer update quick view agent quantity units 1`] = `
+Object {
+  "quantity": "",
+  "units": "kg",
+  "unknown": false,
+}
+`;
+
+exports[`dosageReducer update quick view agent quantity unknown 1`] = `
+Object {
+  "quantity": "",
+  "units": "",
+  "unknown": true,
+}
+`;

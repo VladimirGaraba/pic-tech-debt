@@ -1,0 +1,35 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,600);
+
+body {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+// Variables
+@import "variables";
+
+// Bootstrap
+//@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+@import "skin";
+
+// https://github.com/select2/select2/issues/3387#issuecomment-321820965
+select.select2-hidden-accessible {
+  visibility: hidden;
+
+  &[readonly] + .select2-container {
+    pointer-events: none;
+    touch-action: none;
+
+    .select2-selection {
+      background: #eee;
+      box-shadow: none;
+    }
+
+    .select2-selection__arrow,
+    .select2-selection__clear {
+      display: none;
+    }
+  }
+}

@@ -1,0 +1,223 @@
+exports[`searchFilterReducer add call record 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "",
+  "centreName": "",
+  "filter": "all",
+  "name": "",
+  "naturalId": "",
+  "postcode": "",
+  "selected": null,
+  "sex": "",
+  "show": false,
+  "time": "",
+}
+`;
+
+exports[`searchFilterReducer add case 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "",
+  "centreName": "",
+  "filter": "all",
+  "name": "",
+  "naturalId": "",
+  "postcode": "",
+  "selected": null,
+  "sex": "",
+  "show": false,
+  "time": "",
+}
+`;
+
+exports[`searchFilterReducer returns the initial state 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "",
+  "centreName": "",
+  "filter": "all",
+  "name": "",
+  "naturalId": "",
+  "postcode": "",
+  "selected": null,
+  "sex": "",
+  "show": false,
+  "time": "",
+}
+`;
+
+exports[`searchFilterReducer toggle new call modal 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "",
+  "centreName": "",
+  "filter": "all",
+  "name": "",
+  "naturalId": "",
+  "postcode": "",
+  "selected": null,
+  "sex": "",
+  "show": true,
+  "time": "",
+}
+`;
+
+exports[`searchFilterReducer update new call modal caller location 1`] = `
+Object {
+  "callerLocation": "New location",
+  "callerOrganisation": "",
+  "centreName": "",
+  "filter": "all",
+  "name": "",
+  "naturalId": "",
+  "postcode": "",
+  "selected": null,
+  "sex": "",
+  "show": false,
+  "time": "",
+}
+`;
+
+exports[`searchFilterReducer update new call modal caller organisation 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "New organisation",
+  "centreName": "",
+  "filter": "all",
+  "name": "",
+  "naturalId": "",
+  "postcode": "",
+  "selected": null,
+  "sex": "",
+  "show": false,
+  "time": "",
+}
+`;
+
+exports[`searchFilterReducer update new call modal centre name 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "",
+  "centreName": "New centre name",
+  "filter": "all",
+  "name": "",
+  "naturalId": "",
+  "postcode": "",
+  "selected": null,
+  "sex": "",
+  "show": false,
+  "time": "",
+}
+`;
+
+exports[`searchFilterReducer update new call modal filter 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "",
+  "centreName": "",
+  "filter": "New filter",
+  "name": "",
+  "naturalId": "",
+  "postcode": "",
+  "selected": null,
+  "sex": "",
+  "show": false,
+  "time": "",
+}
+`;
+
+exports[`searchFilterReducer update new call modal id 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "",
+  "centreName": "",
+  "filter": "all",
+  "name": "",
+  "naturalId": "New ID",
+  "postcode": "",
+  "selected": null,
+  "sex": "",
+  "show": false,
+  "time": "",
+}
+`;
+
+exports[`searchFilterReducer update new call modal name 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "",
+  "centreName": "",
+  "filter": "all",
+  "name": "New name",
+  "naturalId": "",
+  "postcode": "",
+  "selected": null,
+  "sex": "",
+  "show": false,
+  "time": "",
+}
+`;
+
+exports[`searchFilterReducer update new call modal postcode 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "",
+  "centreName": "",
+  "filter": "all",
+  "name": "",
+  "naturalId": "",
+  "postcode": "New postcode",
+  "selected": null,
+  "sex": "",
+  "show": false,
+  "time": "",
+}
+`;
+
+exports[`searchFilterReducer update new call modal selected 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "",
+  "centreName": "",
+  "filter": "all",
+  "name": "",
+  "naturalId": "",
+  "postcode": "",
+  "selected": "New selected",
+  "sex": "",
+  "show": false,
+  "time": "",
+}
+`;
+
+exports[`searchFilterReducer update new call modal sex 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "",
+  "centreName": "",
+  "filter": "all",
+  "name": "",
+  "naturalId": "",
+  "postcode": "",
+  "selected": null,
+  "sex": "New sex",
+  "show": false,
+  "time": "",
+}
+`;
+
+exports[`searchFilterReducer update new call modal time 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "",
+  "centreName": "",
+  "filter": "all",
+  "name": "",
+  "naturalId": "",
+  "postcode": "",
+  "selected": null,
+  "sex": "",
+  "show": false,
+  "time": "New time",
+}
+`;

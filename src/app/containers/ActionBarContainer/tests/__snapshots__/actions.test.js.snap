@@ -1,0 +1,75 @@
+exports[`ActionBarContainer action creators toggleNewCallModal 1`] = `
+Object {
+  "type": "pic/ActionBarContainer/TOGGLE_NEW_CALL_MODAL",
+}
+`;
+
+exports[`ActionBarContainer action creators updateNewCallModalCallerLocation 1`] = `
+Object {
+  "callerLocation": "New Location",
+  "type": "pic/ActionBarContainer/UPDATE_NEW_CALL_MODAL_CALLER_LOCATION",
+}
+`;
+
+exports[`ActionBarContainer action creators updateNewCallModalCallerOrganisation 1`] = `
+Object {
+  "callerOrganisation": "New organisation",
+  "type": "pic/ActionBarContainer/UPDATE_NEW_CALL_MODAL_CALLER_ORGANISATION",
+}
+`;
+
+exports[`ActionBarContainer action creators updateNewCallModalCentreName 1`] = `
+Object {
+  "centreName": "New centre name",
+  "type": "pic/ActionBarContainer/UPDATE_NEW_CALL_MODAL_CENTRE_NAME",
+}
+`;
+
+exports[`ActionBarContainer action creators updateNewCallModalFilter 1`] = `
+Object {
+  "filter": "New filter",
+  "type": "pic/ActionBarContainer/UPDATE_NEW_CALL_MODAL_FILTER",
+}
+`;
+
+exports[`ActionBarContainer action creators updateNewCallModalId 1`] = `
+Object {
+  "naturalId": "New id",
+  "type": "pic/ActionBarContainer/UPDATE_NEW_CALL_MODAL_ID",
+}
+`;
+
+exports[`ActionBarContainer action creators updateNewCallModalName 1`] = `
+Object {
+  "name": "New name",
+  "type": "pic/ActionBarContainer/UPDATE_NEW_CALL_MODAL_NAME",
+}
+`;
+
+exports[`ActionBarContainer action creators updateNewCallModalPostcode 1`] = `
+Object {
+  "postcode": 8000,
+  "type": "pic/ActionBarContainer/UPDATE_NEW_CALL_MODAL_POSTCODE",
+}
+`;
+
+exports[`ActionBarContainer action creators updateNewCallModalSelected 1`] = `
+Object {
+  "selected": "New selected",
+  "type": "pic/ActionBarContainer/UPDATE_NEW_CALL_MODAL_SELECTED",
+}
+`;
+
+exports[`ActionBarContainer action creators updateNewCallModalSex 1`] = `
+Object {
+  "sex": "New sex",
+  "type": "pic/ActionBarContainer/UPDATE_NEW_CALL_MODAL_SEX",
+}
+`;
+
+exports[`ActionBarContainer action creators updateNewCallModalTime 1`] = `
+Object {
+  "time": "New time",
+  "type": "pic/ActionBarContainer/UPDATE_NEW_CALL_MODAL_TIME",
+}
+`;

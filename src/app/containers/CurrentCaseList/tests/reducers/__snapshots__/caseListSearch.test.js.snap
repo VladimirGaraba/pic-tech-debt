@@ -1,0 +1,125 @@
+exports[`caseListSearchReducer returns the initial state 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "",
+  "centreName": "",
+  "filter": "open",
+  "name": "",
+  "naturalId": "",
+  "postcode": "",
+  "sex": "",
+  "time": "",
+}
+`;
+
+exports[`caseListSearchReducer update caller location 1`] = `
+Object {
+  "callerLocation": "Home",
+  "callerOrganisation": "",
+  "centreName": "",
+  "filter": "open",
+  "name": "",
+  "naturalId": "",
+  "postcode": "",
+  "sex": "",
+  "time": "",
+}
+`;
+
+exports[`caseListSearchReducer update caller organisation 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "Hospital",
+  "centreName": "",
+  "filter": "open",
+  "name": "",
+  "naturalId": "",
+  "postcode": "",
+  "sex": "",
+  "time": "",
+}
+`;
+
+exports[`caseListSearchReducer update centre name 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "",
+  "centreName": "Panadol",
+  "filter": "open",
+  "name": "",
+  "naturalId": "",
+  "postcode": "",
+  "sex": "",
+  "time": "",
+}
+`;
+
+exports[`caseListSearchReducer update filter 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "",
+  "centreName": "",
+  "filter": "all",
+  "name": "",
+  "naturalId": "",
+  "postcode": "",
+  "sex": "",
+  "time": "",
+}
+`;
+
+exports[`caseListSearchReducer update name 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "",
+  "centreName": "",
+  "filter": "open",
+  "name": "Smith",
+  "naturalId": "",
+  "postcode": "",
+  "sex": "",
+  "time": "",
+}
+`;
+
+exports[`caseListSearchReducer update postcode 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "",
+  "centreName": "",
+  "filter": "open",
+  "name": "",
+  "naturalId": "",
+  "postcode": 8000,
+  "sex": "",
+  "time": "",
+}
+`;
+
+exports[`caseListSearchReducer update sex 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "",
+  "centreName": "",
+  "filter": "open",
+  "name": "",
+  "naturalId": "",
+  "postcode": "",
+  "sex": "male",
+  "time": "",
+}
+`;
+
+exports[`caseListSearchReducer update time 1`] = `
+Object {
+  "callerLocation": "",
+  "callerOrganisation": "",
+  "centreName": "",
+  "filter": "open",
+  "name": "",
+  "naturalId": "",
+  "postcode": "",
+  "sex": "",
+  "time": "2018",
+}
+`;

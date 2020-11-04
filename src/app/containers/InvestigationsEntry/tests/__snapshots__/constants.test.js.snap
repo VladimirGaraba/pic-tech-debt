@@ -1,0 +1,21 @@
+exports[`InvestigationEntry action constants HIDE_INVESTIGATIONS_VIEW_RESULT_MODAL 1`] = `"pic/InvestigationsEntry/HIDE_INVESTIGATIONS_VIEW_RESULT_MODAL"`;
+
+exports[`InvestigationEntry action constants REMOVE_INVESTIGATIONS_VIEW_RESULT_ATTACHMENT 1`] = `"pic/InvestigationsEntry/REMOVE_INVESTIGATIONS_VIEW_RESULT_ATTACHMENT"`;
+
+exports[`InvestigationEntry action constants RESET_INVESTIGATIONS_VIEW_REQUEST 1`] = `"pic/InvestigationsEntry/RESET_INVESTIGATIONS_VIEW_REQUEST"`;
+
+exports[`InvestigationEntry action constants RESET_INVESTIGATIONS_VIEW_RESULT 1`] = `"pic/InvestigationsEntry/RESET_INVESTIGATIONS_VIEW_RESULT"`;
+
+exports[`InvestigationEntry action constants SHOW_INVESTIGATIONS_VIEW_RESULT_MODAL 1`] = `"pic/InvestigationsEntry/SHOW_INVESTIGATIONS_VIEW_RESULT_MODAL"`;
+
+exports[`InvestigationEntry action constants UPDATE_INVESTIGATIONS_REQUESTS 1`] = `"pic/InvestigationsEntry/UPDATE_INVESTIGATIONS_REQUESTS"`;
+
+exports[`InvestigationEntry action constants UPDATE_INVESTIGATIONS_RESULTS 1`] = `"pic/InvestigationsEntry/UPDATE_INVESTIGATIONS_RESULTS"`;
+
+exports[`InvestigationEntry action constants UPDATE_INVESTIGATIONS_VIEW_REQUEST 1`] = `"pic/InvestigationsEntry/UPDATE_INVESTIGATIONS_VIEW_REQUEST"`;
+
+exports[`InvestigationEntry action constants UPDATE_INVESTIGATIONS_VIEW_RESULT_ATTACHMENTS 1`] = `"pic/InvestigationsEntry/UPDATE_INVESTIGATIONS_VIEW_RESULT_ATTACHMENTS"`;
+
+exports[`InvestigationEntry action constants UPDATE_INVESTIGATIONS_VIEW_RESULT_DESCRIPTION 1`] = `"pic/InvestigationsEntry/UPDATE_INVESTIGATIONS_VIEW_RESULT_DESCRIPTION"`;
+
+exports[`InvestigationEntry action constants UPDATE_INVESTIGATIONS_VIEW_RESULT_NOTES 1`] = `"pic/InvestigationsEntry/UPDATE_INVESTIGATIONS_VIEW_RESULT_NOTES"`;

@@ -1,0 +1,55 @@
+exports[`Current Case List action creators updateCaseListSearchCallerLocation 1`] = `
+Object {
+  "callerLocation": "Home",
+  "type": "pic/CurrentCaseList/UPDATE_CASE_LIST_SEARCH_CALLER_LOCATION",
+}
+`;
+
+exports[`Current Case List action creators updateCaseListSearchCallerOrganisation 1`] = `
+Object {
+  "callerOrganisation": "Hospital",
+  "type": "pic/CurrentCaseList/UPDATE_CASE_LIST_SEARCH_CALLER_ORGANISATION",
+}
+`;
+
+exports[`Current Case List action creators updateCaseListSearchCentreName 1`] = `
+Object {
+  "centreName": "Panadol",
+  "type": "pic/CurrentCaseList/UPDATE_CASE_LIST_SEARCH_CENTRE_NAME",
+}
+`;
+
+exports[`Current Case List action creators updateCaseListSearchFilter 1`] = `
+Object {
+  "filter": "open",
+  "type": "pic/CurrentCaseList/UPDATE_CASE_LIST_SEARCH_FILTER",
+}
+`;
+
+exports[`Current Case List action creators updateCaseListSearchName 1`] = `
+Object {
+  "name": "Smith",
+  "type": "pic/CurrentCaseList/UPDATE_CASE_LIST_SEARCH_NAME",
+}
+`;
+
+exports[`Current Case List action creators updateCaseListSearchPostcode 1`] = `
+Object {
+  "postcode": 6000,
+  "type": "pic/CurrentCaseList/UPDATE_CASE_LIST_SEARCH_POSTCODE",
+}
+`;
+
+exports[`Current Case List action creators updateCaseListSearchSex 1`] = `
+Object {
+  "sex": "male",
+  "type": "pic/CurrentCaseList/UPDATE_CASE_LIST_SEARCH_SEX",
+}
+`;
+
+exports[`Current Case List action creators updateCaseListSearchTime 1`] = `
+Object {
+  "time": "2018",
+  "type": "pic/CurrentCaseList/UPDATE_CASE_LIST_SEARCH_TIME",
+}
+`;

@@ -1,0 +1,257 @@
+exports[`Patient action creators updateTemplatePatientAddress1 1`] = `
+Object {
+  "address1": "New Address 1",
+  "id": 1,
+  "old": "Old Address1",
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_ADDRESS1",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientAddress2 1`] = `
+Object {
+  "address2": "New Address 1",
+  "id": 1,
+  "old": "Old Address1",
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_ADDRESS2",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientAge 1`] = `
+Object {
+  "age": 20,
+  "ageUnits": "years",
+  "oldAge": "",
+  "oldAgeUnits": "",
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_AGE",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientAgeGroup 1`] = `
+Object {
+  "ageGroup": "years",
+  "old": "months",
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_AGE_GROUP",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientAgeYears 1`] = `
+Object {
+  "ageYears": "0.75",
+  "old": "",
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_AGE_YEARS",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientAnimalType 1`] = `
+Object {
+  "animalType": "bird",
+  "old": "dog",
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_ANIMAL_TYPE",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientCategory 1`] = `
+Object {
+  "category": "human",
+  "old": "animal",
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_CATEGORY",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientCircumstance 1`] = `
+Object {
+  "circumstance": "New Circumstance",
+  "old": "Old Circumstance",
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_CIRCUMSTANCE",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientCountry 1`] = `
+Object {
+  "country": "New Zealand",
+  "id": 1,
+  "old": "Australia",
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_COUNTRY",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientGeometry 1`] = `
+Object {
+  "geometry": Object {},
+  "old": Object {},
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_GEOMETRY",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientISOCountry 1`] = `
+Object {
+  "id": 1,
+  "isoCountry": "NZ",
+  "old": "AU",
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_ISOCOUNTRY",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientLocation 1`] = `
+Object {
+  "location": "New Location",
+  "old": "Old Location",
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_LOCATION",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientMedicalRecordNumber 1`] = `
+Object {
+  "appKey": undefined,
+  "medicalRecordNumber": "5678",
+  "old": "1234",
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_MEDICAL_RECORD_NUMBER",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientName 1`] = `
+Object {
+  "appKey": undefined,
+  "name": "New Name",
+  "old": "Old Name",
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_NAME",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientOccupation 1`] = `
+Object {
+  "occupation": "New Occupation",
+  "old": "Old Occupation",
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_OCCUPATION",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientPlaceId 1`] = `
+Object {
+  "id": 1,
+  "old": "Old Place Id",
+  "placeId": "New Place Id",
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_PLACEID",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientPoisonSeverityScore 1`] = `
+Object {
+  "old": "Minimal",
+  "poisonSeverityScore": "Minor",
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_POISON_SEVERITY_SCORE",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientPostcode 1`] = `
+Object {
+  "old": "6000",
+  "postcode": "3000",
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_POSTCODE",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientPregnantLactating 1`] = `
+Object {
+  "old": "No",
+  "pregnantLactating": "Yes",
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_PREGNANT_LACTATING",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientPregnantStatus 1`] = `
+Object {
+  "old": "No",
+  "pregnantStatus": "Yes",
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_PREGNANT_STATUS",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientPregnantTrimester 1`] = `
+Object {
+  "old": "1",
+  "pregnantTrimester": "2",
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_PREGNANT_TRIMESTER",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientPregnantTrimesterUnknown 1`] = `
+Object {
+  "old": false,
+  "pregnantTrimesterUnknown": true,
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_PREGNANT_TRIMESTER_UNKNOWN",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientRiskAssessment 1`] = `
+Object {
+  "old": "Old Assessment",
+  "riskAssessment": "New Assessment",
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_RISK_ASSESSMENT",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientSex 1`] = `
+Object {
+  "gender": "female",
+  "old": "male",
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_SEX",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientState 1`] = `
+Object {
+  "id": 1,
+  "old": "WA",
+  "state": "NSW",
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_STATE",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientSuburb 1`] = `
+Object {
+  "old": "Perth",
+  "suburb": "Sydney",
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_SUBURB",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientTelephone 1`] = `
+Object {
+  "id": 1,
+  "old": "123456",
+  "telephone": "56789",
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_TELEPHONE",
+}
+`;
+
+exports[`Patient action creators updateTemplatePatientWeight 1`] = `
+Object {
+  "oldWeight": "",
+  "oldWeightUnits": "",
+  "templateId": 1,
+  "type": "pic/PatientEntry/UPDATE_TEMPLATE_PATIENT_WEIGHT",
+  "weight": "83",
+  "weightUnits": "kg",
+}
+`;

@@ -1,0 +1,80 @@
+exports[`Treatments action creators resetReferralsView 1`] = `
+Object {
+  "type": "pic/TreatmentEntry/RESET_REFERRALS_VIEW",
+}
+`;
+
+exports[`Treatments action creators resetTreatmentsView 1`] = `
+Object {
+  "type": "pic/TreatmentEntry/RESET_TREATMENTS_VIEW",
+}
+`;
+
+exports[`Treatments action creators updateReferrals 1`] = `
+Object {
+  "id": 1,
+  "referee": 2,
+  "refereeSite": NaN,
+  "specialty": "Test Referee",
+  "type": "pic/TreatmentEntry/UPDATE_REFERRALS",
+}
+`;
+
+exports[`Treatments action creators updateReferralsViewReferee 1`] = `
+Object {
+  "referee": "Test Referee",
+  "type": "pic/TreatmentEntry/UPDATE_REFERRALS_VIEW_REFEREE",
+}
+`;
+
+exports[`Treatments action creators updateReferralsViewRefereeSite 1`] = `
+Object {
+  "refereeSite": 1,
+  "type": "pic/TreatmentEntry/UPDATE_REFERRALS_VIEW_REFEREE_SITE",
+}
+`;
+
+exports[`Treatments action creators updateReferralsViewSpecialty 1`] = `
+Object {
+  "specialty": "Test Specialty",
+  "type": "pic/TreatmentEntry/UPDATE_REFERRALS_VIEW_SPECIALTY",
+}
+`;
+
+exports[`Treatments action creators updateTreatments 1`] = `
+Object {
+  "disposition": "Test Disposition",
+  "id": 1,
+  "noteId": 2,
+  "spi": Object {
+    "name": "Test SPI",
+  },
+  "treatments": Array [
+    "Treatment 1",
+  ],
+  "type": "pic/TreatmentEntry/UPDATE_TREATMENTS",
+}
+`;
+
+exports[`Treatments action creators updateTreatmentsViewContent 1`] = `
+Object {
+  "content": "Test Content",
+  "type": "pic/TreatmentEntry/UPDATE_TREATMENTS_VIEW_CONTENT",
+}
+`;
+
+exports[`Treatments action creators updateTreatmentsViewDisposition 1`] = `
+Object {
+  "disposition": "Test Disposition",
+  "type": "pic/TreatmentEntry/UPDATE_TREATMENTS_VIEW_DISPOSITION",
+}
+`;
+
+exports[`Treatments action creators updateTreatmentsViewTreatments 1`] = `
+Object {
+  "treatmentList": Array [
+    "Test Treatment 2",
+  ],
+  "type": "pic/TreatmentEntry/UPDATE_TREATMENTS_VIEW_TREATMENTS",
+}
+`;

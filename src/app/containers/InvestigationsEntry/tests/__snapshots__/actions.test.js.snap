@@ -1,0 +1,81 @@
+exports[`InvestigationsEntry action creators hideInvestigationsViewResultModal 1`] = `
+Object {
+  "type": "pic/InvestigationsEntry/HIDE_INVESTIGATIONS_VIEW_RESULT_MODAL",
+}
+`;
+
+exports[`InvestigationsEntry action creators removeInvestigationsViewResultAttachment 1`] = `
+Object {
+  "index": 1,
+  "type": "pic/InvestigationsEntry/REMOVE_INVESTIGATIONS_VIEW_RESULT_ATTACHMENT",
+}
+`;
+
+exports[`InvestigationsEntry action creators resetInvestigationsViewRequest 1`] = `
+Object {
+  "type": "pic/InvestigationsEntry/RESET_INVESTIGATIONS_VIEW_REQUEST",
+}
+`;
+
+exports[`InvestigationsEntry action creators resetInvestigationsViewResult 1`] = `
+Object {
+  "type": "pic/InvestigationsEntry/RESET_INVESTIGATIONS_VIEW_RESULT",
+}
+`;
+
+exports[`InvestigationsEntry action creators showInvestigationsViewResultModal 1`] = `
+Object {
+  "requestIx": 1,
+  "type": "pic/InvestigationsEntry/SHOW_INVESTIGATIONS_VIEW_RESULT_MODAL",
+}
+`;
+
+exports[`InvestigationsEntry action creators updateInvestigationsRequests 1`] = `
+Object {
+  "id": 1,
+  "noteId": 2,
+  "requestIx": 0,
+  "type": "pic/InvestigationsEntry/UPDATE_INVESTIGATIONS_REQUESTS",
+}
+`;
+
+exports[`InvestigationsEntry action creators updateInvestigationsResults 1`] = `
+Object {
+  "id": 1,
+  "noteId": 3,
+  "requestIx": 0,
+  "type": "pic/InvestigationsEntry/UPDATE_INVESTIGATIONS_RESULTS",
+}
+`;
+
+exports[`InvestigationsEntry action creators updateInvestigationsViewRequest 1`] = `
+Object {
+  "content": "Test Content",
+  "type": "pic/InvestigationsEntry/UPDATE_INVESTIGATIONS_VIEW_REQUEST",
+}
+`;
+
+exports[`InvestigationsEntry action creators updateInvestigationsViewResultAttachments 1`] = `
+Object {
+  "attachments": Array [
+    1,
+    2,
+    3,
+  ],
+  "type": "pic/InvestigationsEntry/UPDATE_INVESTIGATIONS_VIEW_RESULT_ATTACHMENTS",
+}
+`;
+
+exports[`InvestigationsEntry action creators updateInvestigationsViewResultDescription 1`] = `
+Object {
+  "description": "Test description",
+  "type": "pic/InvestigationsEntry/UPDATE_INVESTIGATIONS_VIEW_RESULT_DESCRIPTION",
+}
+`;
+
+exports[`InvestigationsEntry action creators updateInvestigationsViewResultNotes 1`] = `
+Object {
+  "content": "Test content",
+  "type": "pic/InvestigationsEntry/UPDATE_INVESTIGATIONS_VIEW_RESULT_NOTES",
+}
+`;

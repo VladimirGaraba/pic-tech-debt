@@ -1,0 +1,83 @@
+exports[`AgentEntry action constants ADD_AGENT 1`] = `"pic/AgentEntry/ADD_AGENT"`;
+
+exports[`AgentEntry action constants ADD_AGENT_CENTRE_AGENT 1`] = `"pic/AgentEntry/ADD_AGENT_CENTRE_AGENT"`;
+
+exports[`AgentEntry action constants DELETE_AGENT 1`] = `"pic/AgentEntry/DELETE_AGENT"`;
+
+exports[`AgentEntry action constants HIDE_AGENT_MODAL 1`] = `"pic/AgentEntry/HIDE_AGENT_MODAL"`;
+
+exports[`AgentEntry action constants REMOVE_AGENT_CENTRE_AGENT 1`] = `"pic/AgentEntry/REMOVE_AGENT_CENTRE_AGENT"`;
+
+exports[`AgentEntry action constants REMOVE_AGENT_VIEW_ATTACHMENT 1`] = `undefined`;
+
+exports[`AgentEntry action constants REMOVE_QUICK_VIEW_AGENT_NOTE_ATTACHMENT 1`] = `undefined`;
+
+exports[`AgentEntry action constants RESET_AGENT_VIEW 1`] = `"pic/AgentEntry/RESET_AGENT_VIEW"`;
+
+exports[`AgentEntry action constants RESET_QUICK_VIEW 1`] = `"pic/AgentEntry/RESET_QUICK_VIEW"`;
+
+exports[`AgentEntry action constants SET_AGENT_TAB 1`] = `"pic/AgentEntry/SET_AGENT_TAB"`;
+
+exports[`AgentEntry action constants SHOW_AGENT_MODAL 1`] = `"pic/AgentEntry/SHOW_AGENT_MODAL"`;
+
+exports[`AgentEntry action constants UPDATE_AGENT_CATEGORY 1`] = `"pic/AgentEntry/UPDATE_AGENT_CATEGORY"`;
+
+exports[`AgentEntry action constants UPDATE_AGENT_CENTRE_AGENT 1`] = `"pic/AgentEntry/UPDATE_AGENT_CENTRE_AGENT"`;
+
+exports[`AgentEntry action constants UPDATE_AGENT_DURATION 1`] = `"pic/AgentEntry/UPDATE_AGENT_DURATION"`;
+
+exports[`AgentEntry action constants UPDATE_AGENT_EUPCS 1`] = `"pic/AgentEntry/UPDATE_AGENT_EUPCS"`;
+
+exports[`AgentEntry action constants UPDATE_AGENT_INTENDED_USE_GIVEN 1`] = `"pic/AgentEntry/UPDATE_AGENT_INTENDED_USE_GIVEN"`;
+
+exports[`AgentEntry action constants UPDATE_AGENT_INTERLOCUTOR_AGENT_NAME 1`] = `"pic/AgentEntry/UPDATE_AGENT_INTERLOCUTOR_AGENT_NAME"`;
+
+exports[`AgentEntry action constants UPDATE_AGENT_IS_PATIENTS_OWN_MEDICATION 1`] = `"pic/AgentEntry/UPDATE_AGENT_IS_PATIENTS_OWN_MEDICATION"`;
+
+exports[`AgentEntry action constants UPDATE_AGENT_NOTES 1`] = `undefined`;
+
+exports[`AgentEntry action constants UPDATE_AGENT_QUANTITY 1`] = `"pic/AgentEntry/UPDATE_AGENT_QUANTITY"`;
+
+exports[`AgentEntry action constants UPDATE_AGENT_ROUTE_OF_EXPOSURE 1`] = `"pic/AgentEntry/UPDATE_AGENT_ROUTE_OF_EXPOSURE"`;
+
+exports[`AgentEntry action constants UPDATE_AGENT_TIME_OF_EXPOSURE 1`] = `"pic/AgentEntry/UPDATE_AGENT_TIME_OF_EXPOSURE"`;
+
+exports[`AgentEntry action constants UPDATE_AGENT_TIME_SINCE_EXPOSURE 1`] = `"pic/AgentEntry/UPDATE_AGENT_TIME_SINCE_EXPOSURE"`;
+
+exports[`AgentEntry action constants UPDATE_AGENT_TIME_SINCE_EXPOSURE_UNITS 1`] = `"pic/AgentEntry/UPDATE_AGENT_TIME_SINCE_EXPOSURE_UNITS"`;
+
+exports[`AgentEntry action constants UPDATE_AGENT_TYPE_OF_EXPOSURE 1`] = `"pic/AgentEntry/UPDATE_AGENT_TYPE_OF_EXPOSURE"`;
+
+exports[`AgentEntry action constants UPDATE_AGENT_USE_TYPE 1`] = `"pic/AgentEntry/UPDATE_AGENT_USE_TYPE"`;
+
+exports[`AgentEntry action constants UPDATE_AGENT_VIEW_ATTACHMENTS 1`] = `undefined`;
+
+exports[`AgentEntry action constants UPDATE_AGENT_VIEW_CONTENT 1`] = `undefined`;
+
+exports[`AgentEntry action constants UPDATE_QUICK_VIEW_AGENT_DURATION 1`] = `"pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_DURATION"`;
+
+exports[`AgentEntry action constants UPDATE_QUICK_VIEW_AGENT_DURATION_UNITS 1`] = `"pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_DURATION_UNITS"`;
+
+exports[`AgentEntry action constants UPDATE_QUICK_VIEW_AGENT_DURATION_UNKNOWN 1`] = `"pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_DURATION_UNKNOWN"`;
+
+exports[`AgentEntry action constants UPDATE_QUICK_VIEW_AGENT_NAME 1`] = `"pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_NAME"`;
+
+exports[`AgentEntry action constants UPDATE_QUICK_VIEW_AGENT_NOTE_ATTACHMENTS 1`] = `undefined`;
+
+exports[`AgentEntry action constants UPDATE_QUICK_VIEW_AGENT_NOTE_CONTENT 1`] = `undefined`;
+
+exports[`AgentEntry action constants UPDATE_QUICK_VIEW_AGENT_QUANTITY 1`] = `"pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_QUANTITY"`;
+
+exports[`AgentEntry action constants UPDATE_QUICK_VIEW_AGENT_QUANTITY_UNITS 1`] = `"pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_QUANTITY_UNITS"`;
+
+exports[`AgentEntry action constants UPDATE_QUICK_VIEW_AGENT_QUANTITY_UNKNOWN 1`] = `"pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_QUANTITY_UNKNOWN"`;
+
+exports[`AgentEntry action constants UPDATE_QUICK_VIEW_AGENT_ROUTE_OF_EXPOSURE 1`] = `"pic/AgentEntry/UPDATE_AGENT_VIEW_ROUTE_OF_EXPOSURE"`;
+
+exports[`AgentEntry action constants UPDATE_QUICK_VIEW_AGENT_TIME_OF_EXPOSURE 1`] = `"pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_TIME_OF_EXPOSURE"`;
+
+exports[`AgentEntry action constants UPDATE_QUICK_VIEW_AGENT_TIME_SINCE_EXPOSURE 1`] = `"pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_TIME_SINCE_EXPOSURE"`;
+
+exports[`AgentEntry action constants UPDATE_QUICK_VIEW_AGENT_TIME_SINCE_EXPOSURE_UNITS 1`] = `"pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_TIME_SINCE_EXPOSURE_UNITS"`;
+
+exports[`AgentEntry action constants UPDATE_QUICK_VIEW_AGENT_TYPE_OF_EXPOSURE 1`] = `"pic/AgentEntry/UPDATE_QUICK_VIEW_AGENT_TYPE_OF_EXPOSURE"`;

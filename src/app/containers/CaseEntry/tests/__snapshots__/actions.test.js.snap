@@ -1,0 +1,114 @@
+exports[`App Actions App action creators addCallRecord 1`] = `
+Object {
+  "appKey": undefined,
+  "commsNoteId": "de6d38464f8ee145f0731aca7faa24f78d07e25f",
+  "id": 1,
+  "spi": Object {
+    "name": "Test SPI",
+  },
+  "type": "pic/CaseEntry/ADD_CALL_RECORD",
+}
+`;
+
+exports[`App Actions App action creators addCase 1`] = `
+Object {
+  "appKey": Object {
+    "id": "appKeyId",
+    "key": "appKey",
+  },
+  "commsNoteId": "de6d38464f8ee145f0731aca7faa24f78d07e25f",
+  "id": "481966f3ebcc4cef9a26ad178dd3e4cfce6e9aef",
+  "prefix": "WAPIC",
+  "spi": Object {
+    "name": "Test SPI",
+  },
+  "type": "pic/CaseEntry/ADD_CASE",
+}
+`;
+
+exports[`App Actions App action creators endCall 1`] = `
+Object {
+  "caseId": undefined,
+  "type": "pic/CaseEntry/END_CALL_RECORD",
+}
+`;
+
+exports[`App Actions App action creators resetAgentViewCentreName 1`] = `
+Object {
+  "type": "pic/CaseEntry/RESET_AGENT_VIEW_CENTRE_NAME",
+}
+`;
+
+exports[`App Actions App action creators updateAgentViewCentreName 1`] = `
+Object {
+  "agentViewCentreName": "Test name",
+  "type": "pic/CaseEntry/UPDATE_AGENT_VIEW_CENTRE_NAME",
+}
+`;
+
+exports[`App Actions App action creators updateApplicationKeyId 1`] = `
+Object {
+  "appKey": Object {
+    "id": "appKeyId",
+    "key": "appKey",
+  },
+  "id": 1,
+  "type": "pic/CaseEntry/UPDATE_APPLICATION_KEY_ID",
+}
+`;
+
+exports[`App Actions App action creators updateCaseOutcome 1`] = `
+Object {
+  "id": 1,
+  "old": "Old Outcome",
+  "outcome": "New Outcome",
+  "type": "pic/CaseEntry/UPDATE_CASE_OUTCOME",
+}
+`;
+
+exports[`App Actions App action creators updateCaseStatus 1`] = `
+Object {
+  "id": 1,
+  "immediate": false,
+  "spi": Object {
+    "name": "Test SPI",
+  },
+  "status": "open",
+  "type": "pic/CaseEntry/UPDATE_CASE_STATUS",
+}
+`;
+
+exports[`App Actions App action creators updateCaseTopic 1`] = `
+Object {
+  "id": 1,
+  "old": "Old Topic",
+  "topic": "New Topic",
+  "type": "pic/CaseEntry/UPDATE_CASE_TOPIC",
+}
+`;
+
+exports[`App Actions App action creators updateCaseType 1`] = `
+Object {
+  "caseType": "hoax",
+  "id": 1,
+  "type": "pic/CaseEntry/UPDATE_CASE_TYPE",
+}
+`;
+
+exports[`App Actions App action creators updateTemplateOutcome 1`] = `
+Object {
+  "old": "Old Outcome",
+  "outcome": "New Outcome",
+  "templateId": 1,
+  "type": "pic/CaseEntry/UPDATE_TEMPLATE_OUTCOME",
+}
+`;
+
+exports[`App Actions App action creators updateTemplateTopic 1`] = `
+Object {
+  "old": "Old Topic",
+  "templateId": 1,
+  "topic": "New Topic",
+  "type": "pic/CaseEntry/UPDATE_TEMPLATE_TOPIC",
+}
+`;

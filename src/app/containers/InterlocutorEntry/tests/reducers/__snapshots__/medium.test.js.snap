@@ -1,0 +1,23 @@
+exports[`mediumReducer returns the initial state 1`] = `
+Object {
+  "detail": "",
+  "detailEnc": "",
+  "type": "Phone",
+}
+`;
+
+exports[`mediumReducer update caller medium 1`] = `
+Object {
+  "detail": "",
+  "detailEnc": "",
+  "type": "Email",
+}
+`;
+
+exports[`mediumReducer update caller medium detail 1`] = `
+Object {
+  "detail": "test@testing.test",
+  "detailEnc": "encryptedString",
+  "type": "Phone",
+}
+`;

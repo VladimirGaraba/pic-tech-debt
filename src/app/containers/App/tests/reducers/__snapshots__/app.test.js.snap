@@ -1,0 +1,19 @@
+exports[`casesReducer batch insert case 1`] = `Object {}`;
+
+exports[`casesReducer delete case 1`] = `Object {}`;
+
+exports[`casesReducer display record 1`] = `
+Object {
+  "Test Case": Object {},
+}
+`;
+
+exports[`casesReducer insert case 1`] = `Object {}`;
+
+exports[`casesReducer returns the initial state 1`] = `Object {}`;
+
+exports[`casesReducer update case 1`] = `
+Object {
+  "Test Case": Object {},
+}
+`;

@@ -1,0 +1,223 @@
+exports[`locationReducer returns the initial state 1`] = `
+Object {
+  "address1": "",
+  "address2": "",
+  "city": "",
+  "country": "",
+  "geometry": Object {},
+  "isoCountry": "",
+  "location": "",
+  "name": "",
+  "placeId": "",
+  "postcode": "",
+  "state": "",
+  "telephone": "",
+}
+`;
+
+exports[`locationReducer update caller ISO country 1`] = `
+Object {
+  "address1": "",
+  "address2": "",
+  "city": "",
+  "country": "",
+  "geometry": Object {},
+  "isoCountry": "AU",
+  "location": "",
+  "name": "",
+  "placeId": "",
+  "postcode": "",
+  "state": "",
+  "telephone": "",
+}
+`;
+
+exports[`locationReducer update caller address 1 1`] = `
+Object {
+  "address1": "Address line 1",
+  "address2": "",
+  "city": "",
+  "country": "",
+  "geometry": Object {},
+  "isoCountry": "",
+  "location": "",
+  "name": "",
+  "placeId": "",
+  "postcode": "",
+  "state": "",
+  "telephone": "",
+}
+`;
+
+exports[`locationReducer update caller address 2 1`] = `
+Object {
+  "address1": "",
+  "address2": "Address line 2",
+  "city": "",
+  "country": "",
+  "geometry": Object {},
+  "isoCountry": "",
+  "location": "",
+  "name": "",
+  "placeId": "",
+  "postcode": "",
+  "state": "",
+  "telephone": "",
+}
+`;
+
+exports[`locationReducer update caller city 1`] = `
+Object {
+  "address1": "",
+  "address2": "",
+  "city": "Cairo",
+  "country": "",
+  "geometry": Object {},
+  "isoCountry": "",
+  "location": "",
+  "name": "",
+  "placeId": "",
+  "postcode": "",
+  "state": "",
+  "telephone": "",
+}
+`;
+
+exports[`locationReducer update caller country 1`] = `
+Object {
+  "address1": "",
+  "address2": "",
+  "city": "",
+  "country": "Slovenia",
+  "geometry": Object {},
+  "isoCountry": "",
+  "location": "",
+  "name": "",
+  "placeId": "",
+  "postcode": "",
+  "state": "",
+  "telephone": "",
+}
+`;
+
+exports[`locationReducer update caller geometry 1`] = `
+Object {
+  "address1": "",
+  "address2": "",
+  "city": "",
+  "country": "",
+  "geometry": Object {
+    "lat": 1,
+    "lng": -1,
+  },
+  "isoCountry": "",
+  "location": "",
+  "name": "",
+  "placeId": "",
+  "postcode": "",
+  "state": "",
+  "telephone": "",
+}
+`;
+
+exports[`locationReducer update caller location 1`] = `
+Object {
+  "address1": "",
+  "address2": "",
+  "city": "",
+  "country": "",
+  "geometry": Object {},
+  "isoCountry": "",
+  "location": "Test location",
+  "name": "",
+  "placeId": "",
+  "postcode": "",
+  "state": "",
+  "telephone": "",
+}
+`;
+
+exports[`locationReducer update caller organisation name 1`] = `
+Object {
+  "address1": "",
+  "address2": "",
+  "city": "",
+  "country": "",
+  "geometry": Object {},
+  "isoCountry": "",
+  "location": "",
+  "name": "Test organisation",
+  "placeId": "",
+  "postcode": "",
+  "state": "",
+  "telephone": "",
+}
+`;
+
+exports[`locationReducer update caller place ID 1`] = `
+Object {
+  "address1": "",
+  "address2": "",
+  "city": "",
+  "country": "",
+  "geometry": Object {},
+  "isoCountry": "",
+  "location": "",
+  "name": "",
+  "placeId": "Place ID",
+  "postcode": "",
+  "state": "",
+  "telephone": "",
+}
+`;
+
+exports[`locationReducer update caller postcode 1`] = `
+Object {
+  "address1": "",
+  "address2": "",
+  "city": "",
+  "country": "",
+  "geometry": Object {},
+  "isoCountry": "",
+  "location": "",
+  "name": "",
+  "placeId": "",
+  "postcode": "5000",
+  "state": "",
+  "telephone": "",
+}
+`;
+
+exports[`locationReducer update caller state 1`] = `
+Object {
+  "address1": "",
+  "address2": "",
+  "city": "",
+  "country": "",
+  "geometry": Object {},
+  "isoCountry": "",
+  "location": "",
+  "name": "",
+  "placeId": "",
+  "postcode": "",
+  "state": "Devonshire",
+  "telephone": "",
+}
+`;
+
+exports[`locationReducer update caller telephone 1`] = `
+Object {
+  "address1": "",
+  "address2": "",
+  "city": "",
+  "country": "",
+  "geometry": Object {},
+  "isoCountry": "",
+  "location": "",
+  "name": "",
+  "placeId": "",
+  "postcode": "",
+  "state": "",
+  "telephone": "(02) 9000 0000",
+}
+`;

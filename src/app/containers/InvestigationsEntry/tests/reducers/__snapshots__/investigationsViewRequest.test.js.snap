@@ -1,0 +1,17 @@
+exports[`investigationsViewRequestReducer reset investigations view 1`] = `
+Object {
+  "content": "",
+}
+`;
+
+exports[`investigationsViewRequestReducer returns the initial state 1`] = `
+Object {
+  "content": "",
+}
+`;
+
+exports[`investigationsViewRequestReducer update investigations view request 1`] = `
+Object {
+  "content": "Test Content",
+}
+`;

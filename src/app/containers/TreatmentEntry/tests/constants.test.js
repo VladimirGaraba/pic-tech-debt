@@ -1,0 +1,45 @@
+import {
+  RESET_REFERRALS_VIEW,
+  RESET_TREATMENTS_VIEW,
+  UPDATE_REFERRALS,
+  UPDATE_REFERRALS_VIEW_REFEREE,
+  UPDATE_REFERRALS_VIEW_REFEREE_SITE,
+  UPDATE_REFERRALS_VIEW_SPECIALTY,
+  UPDATE_TREATMENTS,
+  UPDATE_TREATMENTS_VIEW_CONTENT,
+  UPDATE_TREATMENTS_VIEW_DISPOSITION,
+  UPDATE_TREATMENTS_VIEW_TREATMENTS,
+} from '../constants';
+
+describe('Treatments action constants', () => {
+  it('RESET_REFERRALS_VIEW', () => {
+    expect(RESET_REFERRALS_VIEW).toMatchSnapshot();
+  });
+  it('RESET_TREATMENTS_VIEW', () => {
+    expect(RESET_TREATMENTS_VIEW).toMatchSnapshot();
+  });
+  it('UPDATE_REFERRALS', () => {
+    expect(UPDATE_REFERRALS).toMatchSnapshot();
+  });
+  it('UPDATE_REFERRALS_VIEW_REFEREE', () => {
+    expect(UPDATE_REFERRALS_VIEW_REFEREE).toMatchSnapshot();
+  });
+  it('UPDATE_REFERRALS_VIEW_REFEREE_SITE', () => {
+    expect(UPDATE_REFERRALS_VIEW_REFEREE_SITE).toMatchSnapshot();
+  });
+  it('UPDATE_REFERRALS_VIEW_SPECIALTY', () => {
+    expect(UPDATE_REFERRALS_VIEW_SPECIALTY).toMatchSnapshot();
+  });
+  it('UPDATE_TREATMENTS', () => {
+    expect(UPDATE_TREATMENTS).toMatchSnapshot();
+  });
+  it('UPDATE_TREATMENTS_VIEW_CONTENT', () => {
+    expect(UPDATE_TREATMENTS_VIEW_CONTENT).toMatchSnapshot();
+  });
+  it('UPDATE_TREATMENTS_VIEW_DISPOSITION', () => {
+    expect(UPDATE_TREATMENTS_VIEW_DISPOSITION).toMatchSnapshot();
+  });
+  it('UPDATE_TREATMENTS_VIEW_TREATMENTS', () => {
+    expect(UPDATE_TREATMENTS_VIEW_TREATMENTS).toMatchSnapshot();
+  });
+});

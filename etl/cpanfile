@@ -1,0 +1,18 @@
+requires 'local::lib';
+requires 'Modern::Perl';
+requires 'Const::Fast';
+requires 'DBI';
+requires 'DBD::mysql';
+requires 'Store::CouchDB';
+requires 'DBIx::Class';
+requires 'Config::Any';
+requires 'JSON';
+requires 'Try::Tiny';
+requires 'Exception::Class';
+requires 'DateTime::Format::ISO8601';
+requires 'REST::Client';
+requires 'URL::Encode';
+
+author_requires 'Perl::Tidy';
+author_requires 'Data::Dumper';
+author_requires 'DBIx::Class::Schema::Loader';

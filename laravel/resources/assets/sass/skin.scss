@@ -1,0 +1,221 @@
+/*
+ * Skin: Black
+ * -----------
+ */
+.skin-custom {
+  background-color: #ffffff;
+
+  & .btn-primary {
+    background-color: #286090;
+  }
+  & .btn-success {
+    background-color: #5cb85c;
+  }
+  & .btn-info {
+    background-color: #5bc0de;
+  }
+  & .btn-warning {
+    background-color: #f0ad4e;
+  }
+  & .btn-danger {
+    background-color: #d9534f;
+  }
+  & .main-header {
+    -webkit-box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05);
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05);
+
+    & .navbar-toggle {
+      color: #333;
+    }
+    & .navbar-brand {
+      color: #333;
+      border-right: 1px solid #eee;
+    }
+    & .navbar {
+      background-color: #fafafa;
+      
+      & .nav {
+        & > li > a {
+          color: #333333;
+        }
+        & > li > a:hover,
+        & > li > a:active,
+        & > li > a:focus,
+        & .open > a,
+        & .open > a:hover,
+        & .open > a:focus,
+        & > .active > a {
+          background: #fafafa;
+          color: #999999;
+        }
+      }
+
+      & .sidebar-toggle {
+        color: #333333;
+      }
+      & .sidebar-toggle:hover {
+        color: #999999;
+        background: #fafafa;
+      }
+      & > .sidebar-toggle {
+        color: #333;
+        border-right: 1px solid #eee;
+      }
+      & .navbar-nav > li > a {
+        border-right: 1px solid #eee;
+      }
+      & .navbar-custom-menu .navbar-nav > li > a,
+      & .navbar-right > li > a {
+        border-left: 1px solid #eee;
+        border-right-width: 0;
+      }
+    }
+    & > .logo {
+      background-color: #fafafa;
+      color: #333333;
+      border-bottom: 0 solid transparent;
+      border-right: 1px solid #eee;
+      font-size: 16px;
+    }
+    & > .logo:hover {
+      background-color: #fcfcfc;
+    }
+
+    & li.user-header {
+      background-color: #222;
+    }
+  }
+  
+  & .content-header {
+    background: transparent;
+    box-shadow: none;
+  }
+  & .wrapper {
+    background-color: #ffffff;
+  }
+  & .main-sidebar,
+  & .left-side {
+    background-color: #fafafa;
+  }
+  & .content-wrapper,
+  & .main-footer {
+    background-color: #ffffff;
+    border-left: 1px solid #d2d6de;
+  }
+  & .user-panel > .info,
+  & .user-panel > .info > a {
+    color: #333333;
+  }
+  & .sidebar-menu {
+    & > li {
+      -webkit-transition: border-left-color 0.3s ease;
+      -o-transition: border-left-color 0.3s ease;
+      transition: border-left-color 0.3s ease;
+
+      &.header {
+        color: #848484;
+        background: #f9fafc;
+      }
+      & > a {
+        border-left: 3px solid transparent;
+        font-weight: 600;
+      }
+      & > li {
+        &:hover > a,
+        &.active > a {
+          color: #333333;
+          background: #f4f4f5;
+        }
+        &.active {
+          border-left-color: #ffffff;
+        }
+        &.active > a {
+          font-weight: 600;
+        }
+      }
+      & > .treeview-menu {
+        background: #f4f4f5;
+      }
+    }
+  }
+  
+  & .sidebar {
+    & a {
+      color: #333333;
+    }
+    & a:hover {
+      text-decoration: none;
+    }
+  }
+
+  & .treeview-menu {
+    & > li {
+      & > a {
+        color: #333333;
+      }
+      &.active > a,
+      & > a:hover {
+        color: #333333;
+      }
+      &.active > a {
+        font-weight: 600;
+      }
+    }
+  }
+  
+  & .sidebar-form {
+    border-radius: 3px;
+    border: 1px solid #d2d6de;
+    margin: 10px 10px;
+
+    & input[type="text"],
+    & .btn {
+      box-shadow: none;
+      background-color: #fff;
+      border: 1px solid transparent;
+      height: 35px;
+    }
+    & input[type="text"] {
+      color: #666;
+      border-top-left-radius: 2px;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+      border-bottom-left-radius: 2px;
+    }
+    & input[type="text"]:focus,
+    & input[type="text"]:focus + .input-group-btn .btn {
+      background-color: #fff;
+      color: #666;
+    }
+    & input[type="text"]:focus + .input-group-btn .btn {
+      border-left-color: #fff;
+    }
+    & .btn {
+      color: #999;
+      border-top-left-radius: 0;
+      border-top-right-radius: 2px;
+      border-bottom-right-radius: 2px;
+      border-bottom-left-radius: 0;
+    }
+  }
+}
+@media (max-width: 767px) {
+  .skin-custom .main-header {
+    & > .logo {
+      background-color: #222222;
+      color: #ffffff;
+      border-bottom: 0 solid transparent;
+      border-right: none;
+    }
+    & > .logo:hover {
+      background-color: #1f1f1f;
+    }
+    
+  }
+}
+
+@media (min-width: 768px) {
+  .skin-custom.sidebar-mini.sidebar-collapse .sidebar-menu > li > .treeview-menu {
+    border-left: 1px solid #d2d6de;
+  }
+}

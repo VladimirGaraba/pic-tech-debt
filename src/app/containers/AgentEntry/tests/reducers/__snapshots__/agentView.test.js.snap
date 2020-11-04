@@ -1,0 +1,31 @@
+exports[`agentViewReducer hide agent modal 1`] = `
+Object {
+  "attachments": Array [],
+  "content": "",
+  "show": false,
+}
+`;
+
+exports[`agentViewReducer reset agent view 1`] = `
+Object {
+  "attachments": Array [],
+  "content": "",
+  "show": false,
+}
+`;
+
+exports[`agentViewReducer returns the initial state 1`] = `
+Object {
+  "attachments": Array [],
+  "content": "",
+  "show": false,
+}
+`;
+
+exports[`agentViewReducer show agent modal 1`] = `
+Object {
+  "attachments": Array [],
+  "content": "",
+  "show": true,
+}
+`;

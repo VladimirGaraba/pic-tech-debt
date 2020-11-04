@@ -1,0 +1,24 @@
+exports[`TreatmentsReducer returns the initial state 1`] = `Array []`;
+
+exports[`TreatmentsReducer update treatments 1`] = `
+Array [
+  Object {
+    "disposition": "Test Disposition",
+    "notes": Array [
+      2,
+    ],
+    "spi": Object {
+      "id": undefined,
+      "job": undefined,
+      "name": "Test SPI Name",
+      "org": undefined,
+      "roles": undefined,
+      "siteId": undefined,
+    },
+    "timestamp": "2018-04-07T17:15:00.000Z",
+    "treatments": Object {
+      "key": "Test Treatments",
+    },
+  },
+]
+`;

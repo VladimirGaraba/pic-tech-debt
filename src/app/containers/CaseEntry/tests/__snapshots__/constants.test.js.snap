@@ -1,0 +1,29 @@
+exports[`App action constants ADD_CALL_RECORD 1`] = `"pic/CaseEntry/ADD_CALL_RECORD"`;
+
+exports[`App action constants ADD_CASE 1`] = `"pic/CaseEntry/ADD_CASE"`;
+
+exports[`App action constants END_CALL_RECORD 1`] = `"pic/CaseEntry/END_CALL_RECORD"`;
+
+exports[`App action constants LINK_CASE_INCIDENT 1`] = `"pic/CaseEntry/LINK_CASE_INCIDENT"`;
+
+exports[`App action constants RESET_AGENT_VIEW_CENTRE_NAME 1`] = `"pic/CaseEntry/RESET_AGENT_VIEW_CENTRE_NAME"`;
+
+exports[`App action constants UNLINK_CASE_INCIDENT 1`] = `"pic/CaseEntry/UNLINK_CASE_INCIDENT"`;
+
+exports[`App action constants UPDATE_AGENT_VIEW_CENTRE_NAME 1`] = `"pic/CaseEntry/UPDATE_AGENT_VIEW_CENTRE_NAME"`;
+
+exports[`App action constants UPDATE_APPLICATION_KEY_ID 1`] = `"pic/CaseEntry/UPDATE_APPLICATION_KEY_ID"`;
+
+exports[`App action constants UPDATE_CASE_OUTCOME 1`] = `"pic/CaseEntry/UPDATE_CASE_OUTCOME"`;
+
+exports[`App action constants UPDATE_CASE_STATUS 1`] = `"pic/CaseEntry/UPDATE_CASE_STATUS"`;
+
+exports[`App action constants UPDATE_CASE_TOPIC 1`] = `"pic/CaseEntry/UPDATE_CASE_TOPIC"`;
+
+exports[`App action constants UPDATE_CASE_TYPE 1`] = `"pic/CaseEntry/UPDATE_CASE_TYPE"`;
+
+exports[`App action constants UPDATE_INCIDENT_NAME 1`] = `"pic/CaseEntry/UPDATE_INCIDENT_NAME"`;
+
+exports[`App action constants UPDATE_TEMPLATE_CASE_TYPE 1`] = `"pic/CaseEntry/UPDATE_TEMPLATE_CASE_TYPE"`;
+
+exports[`App action constants UPDATE_TEMPLATE_TOPIC 1`] = `"pic/CaseEntry/UPDATE_TEMPLATE_TOPIC"`;

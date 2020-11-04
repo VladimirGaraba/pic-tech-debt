@@ -1,0 +1,353 @@
+exports[`agentRecordReducer add agent 1`] = `
+Object {
+  "category": "",
+  "centreAgents": Array [],
+  "dosage": Object {
+    "quantity": "1",
+    "units": "mg",
+    "unknown": false,
+  },
+  "eupcs": "",
+  "exposure": Object {
+    "duration": "1",
+    "durationUnits": "hour",
+    "durationUnknown": false,
+    "route": "Ingested",
+    "timeSince": "",
+    "timeSinceUnits": "",
+    "timestamp": "2018-04-14 14:25:00",
+    "type": "Test Exposure Type",
+  },
+  "id": "123456",
+  "intendedUseGiven": "",
+  "isPatientsOwnMedication": false,
+  "name": "Test Agent",
+  "type": Array [],
+}
+`;
+
+exports[`agentRecordReducer add agent centre agent 1`] = `
+Object {
+  "category": "",
+  "centreAgents": Array [
+    Object {
+      "name": "Test Agent",
+      "quantity": "1",
+      "units": "mg",
+      "url": "",
+    },
+  ],
+  "dosage": Object {
+    "quantity": "",
+    "units": "",
+    "unknown": false,
+  },
+  "eupcs": "",
+  "exposure": Object {
+    "duration": "",
+    "durationUnits": "",
+    "durationUnknown": false,
+    "route": Array [],
+    "timeSince": "",
+    "timeSinceUnits": "",
+    "timestamp": "",
+    "type": "",
+  },
+  "id": 1,
+  "intendedUseGiven": "",
+  "isPatientsOwnMedication": false,
+  "name": "",
+  "type": Array [],
+}
+`;
+
+exports[`agentRecordReducer remove agent centre agent 1`] = `
+Object {
+  "category": "",
+  "centreAgents": Array [],
+  "dosage": Object {
+    "quantity": "",
+    "units": "",
+    "unknown": false,
+  },
+  "eupcs": "",
+  "exposure": Object {
+    "duration": "",
+    "durationUnits": "",
+    "durationUnknown": false,
+    "route": Array [],
+    "timeSince": "",
+    "timeSinceUnits": "",
+    "timestamp": "",
+    "type": "",
+  },
+  "id": 1,
+  "intendedUseGiven": "",
+  "isPatientsOwnMedication": false,
+  "name": "",
+  "type": Array [],
+}
+`;
+
+exports[`agentRecordReducer returns the initial state 1`] = `
+Object {
+  "category": "",
+  "centreAgents": Array [],
+  "dosage": Object {
+    "quantity": "",
+    "units": "",
+    "unknown": false,
+  },
+  "eupcs": "",
+  "exposure": Object {
+    "duration": "",
+    "durationUnits": "",
+    "durationUnknown": false,
+    "route": Array [],
+    "timeSince": "",
+    "timeSinceUnits": "",
+    "timestamp": "",
+    "type": "",
+  },
+  "id": "",
+  "intendedUseGiven": "",
+  "isPatientsOwnMedication": false,
+  "name": "",
+  "type": Array [],
+}
+`;
+
+exports[`agentRecordReducer update agent category 1`] = `
+Object {
+  "category": "New Category",
+  "centreAgents": Array [],
+  "dosage": Object {
+    "quantity": "",
+    "units": "",
+    "unknown": false,
+  },
+  "eupcs": "",
+  "exposure": Object {
+    "duration": "",
+    "durationUnits": "",
+    "durationUnknown": false,
+    "route": Array [],
+    "timeSince": "",
+    "timeSinceUnits": "",
+    "timestamp": "",
+    "type": "",
+  },
+  "id": 1,
+  "intendedUseGiven": "",
+  "isPatientsOwnMedication": false,
+  "name": "",
+  "type": Array [],
+}
+`;
+
+exports[`agentRecordReducer update agent centre agent 1`] = `
+Object {
+  "category": "",
+  "centreAgents": Array [
+    Object {
+      "name": "Test Agent",
+      "quantity": "1",
+      "units": "mg",
+      "url": "Test URL",
+    },
+  ],
+  "dosage": Object {
+    "quantity": "",
+    "units": "",
+    "unknown": false,
+  },
+  "eupcs": "",
+  "exposure": Object {
+    "duration": "",
+    "durationUnits": "",
+    "durationUnknown": false,
+    "route": Array [],
+    "timeSince": "",
+    "timeSinceUnits": "",
+    "timestamp": "",
+    "type": "",
+  },
+  "id": 1,
+  "intendedUseGiven": "",
+  "isPatientsOwnMedication": false,
+  "name": "",
+  "type": Array [],
+}
+`;
+
+exports[`agentRecordReducer update agent eupcs 1`] = `
+Object {
+  "category": "",
+  "centreAgents": Array [],
+  "dosage": Object {
+    "quantity": "",
+    "units": "",
+    "unknown": false,
+  },
+  "eupcs": "1",
+  "exposure": Object {
+    "duration": "",
+    "durationUnits": "",
+    "durationUnknown": false,
+    "route": Array [],
+    "timeSince": "",
+    "timeSinceUnits": "",
+    "timestamp": "",
+    "type": "",
+  },
+  "id": 1,
+  "intendedUseGiven": "",
+  "isPatientsOwnMedication": false,
+  "name": "",
+  "type": Array [],
+}
+`;
+
+exports[`agentRecordReducer update agent intended use given 1`] = `
+Object {
+  "category": "",
+  "centreAgents": Array [],
+  "dosage": Object {
+    "quantity": "",
+    "units": "",
+    "unknown": false,
+  },
+  "eupcs": "",
+  "exposure": Object {
+    "duration": "",
+    "durationUnits": "",
+    "durationUnknown": false,
+    "route": Array [],
+    "timeSince": "",
+    "timeSinceUnits": "",
+    "timestamp": "",
+    "type": "",
+  },
+  "id": 1,
+  "intendedUseGiven": "New Agent Name",
+  "isPatientsOwnMedication": false,
+  "name": "",
+  "type": Array [],
+}
+`;
+
+exports[`agentRecordReducer update agent interlocutor agent name 1`] = `
+Object {
+  "category": "",
+  "centreAgents": Array [],
+  "dosage": Object {
+    "quantity": "",
+    "units": "",
+    "unknown": false,
+  },
+  "eupcs": "",
+  "exposure": Object {
+    "duration": "",
+    "durationUnits": "",
+    "durationUnknown": false,
+    "route": Array [],
+    "timeSince": "",
+    "timeSinceUnits": "",
+    "timestamp": "",
+    "type": "",
+  },
+  "id": 1,
+  "intendedUseGiven": "",
+  "isPatientsOwnMedication": false,
+  "name": "Old Agent Name",
+  "type": Array [],
+}
+`;
+
+exports[`agentRecordReducer update agent is patients own medication 1`] = `
+Object {
+  "category": "",
+  "centreAgents": Array [],
+  "dosage": Object {
+    "quantity": "",
+    "units": "",
+    "unknown": false,
+  },
+  "eupcs": "",
+  "exposure": Object {
+    "duration": "",
+    "durationUnits": "",
+    "durationUnknown": false,
+    "route": Array [],
+    "timeSince": "",
+    "timeSinceUnits": "",
+    "timestamp": "",
+    "type": "",
+  },
+  "id": 1,
+  "intendedUseGiven": "",
+  "isPatientsOwnMedication": "Patient\'s own medication",
+  "name": "",
+  "type": Array [],
+}
+`;
+
+exports[`agentRecordReducer update agent use type 1`] = `
+Object {
+  "category": "",
+  "centreAgents": Array [],
+  "dosage": Object {
+    "quantity": "",
+    "units": "",
+    "unknown": false,
+  },
+  "eupcs": "",
+  "exposure": Object {
+    "duration": "",
+    "durationUnits": "",
+    "durationUnknown": false,
+    "route": Array [],
+    "timeSince": "",
+    "timeSinceUnits": "",
+    "timestamp": "",
+    "type": "",
+  },
+  "id": 1,
+  "intendedUseGiven": "",
+  "isPatientsOwnMedication": false,
+  "name": "",
+  "type": Array [
+    "New Use Type",
+  ],
+}
+`;
+
+exports[`agentRecordReducer update quick view agent name 1`] = `
+Object {
+  "category": "",
+  "centreAgents": Array [],
+  "dosage": Object {
+    "quantity": "",
+    "units": "",
+    "unknown": false,
+  },
+  "eupcs": "",
+  "exposure": Object {
+    "duration": "",
+    "durationUnits": "",
+    "durationUnknown": false,
+    "route": Array [],
+    "timeSince": "",
+    "timeSinceUnits": "",
+    "timestamp": "",
+    "type": "",
+  },
+  "id": 1,
+  "intendedUseGiven": "",
+  "isPatientsOwnMedication": false,
+  "name": Array [
+    Object {},
+  ],
+  "type": Array [],
+}
+`;

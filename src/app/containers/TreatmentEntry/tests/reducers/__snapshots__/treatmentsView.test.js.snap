@@ -1,0 +1,66 @@
+exports[`TreatmentsViewReducer reset treatments view 1`] = `
+Object {
+  "content": "",
+  "disposition": "",
+  "spi": Object {
+    "name": "Test SPI",
+  },
+  "treatmentList": Array [],
+}
+`;
+
+exports[`TreatmentsViewReducer returns the initial state 1`] = `
+Object {
+  "content": "",
+  "disposition": "",
+  "spi": Object {
+    "id": "",
+    "job": "",
+    "name": "",
+    "org": "",
+    "roles": Array [],
+    "siteId": "",
+  },
+  "treatmentList": Array [],
+}
+`;
+
+exports[`TreatmentsViewReducer update referrals view treatments 1`] = `
+Object {
+  "content": "Test Content",
+  "disposition": "Test Disposition",
+  "spi": Object {
+    "name": "Test SPI",
+  },
+  "treatmentList": Array [
+    "Test Item 1",
+    "Test Item 2",
+  ],
+}
+`;
+
+exports[`TreatmentsViewReducer update treatments view content 1`] = `
+Object {
+  "content": "Test Content",
+  "disposition": "Test Disposition",
+  "spi": Object {
+    "name": "Test SPI",
+  },
+  "treatmentList": Array [
+    "Test Item 1",
+  ],
+}
+`;
+
+exports[`TreatmentsViewReducer update treatments view disposition 1`] = `
+Object {
+  "content": "Test Content",
+  "disposition": "Test Disposition",
+  "spi": Object {
+    "name": "Test SPI",
+  },
+  "treatmentList": Array [
+    "Test Item 1",
+  ],
+}
+`;

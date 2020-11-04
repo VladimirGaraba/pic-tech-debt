@@ -1,0 +1,210 @@
+exports[`exposureReducer add agent 1`] = `
+Object {
+  "duration": "1",
+  "durationUnits": "hour",
+  "durationUnknown": false,
+  "route": "Ingested",
+  "timeSince": "",
+  "timeSinceUnits": "",
+  "timestamp": "2018-04-14 14:25:00",
+  "type": "Test Exposure Type",
+}
+`;
+
+exports[`exposureReducer returns the initial state 1`] = `
+Object {
+  "duration": "",
+  "durationUnits": "",
+  "durationUnknown": false,
+  "route": Array [],
+  "timeSince": "",
+  "timeSinceUnits": "",
+  "timestamp": "",
+  "type": "",
+}
+`;
+
+exports[`exposureReducer update agent duration 1`] = `
+Object {
+  "duration": "1",
+  "durationUnits": "hours",
+  "durationUnknown": false,
+  "route": Array [],
+  "timeSince": "",
+  "timeSinceUnits": "",
+  "timestamp": "",
+  "type": "",
+}
+`;
+
+exports[`exposureReducer update agent route of exposure 1`] = `
+Object {
+  "duration": "",
+  "durationUnits": "",
+  "durationUnknown": false,
+  "route": Array [
+    "Old Exposure",
+    "New Exposure",
+  ],
+  "timeSince": "",
+  "timeSinceUnits": "",
+  "timestamp": "",
+  "type": "",
+}
+`;
+
+exports[`exposureReducer update agent time of exposure 1`] = `
+Object {
+  "duration": "",
+  "durationUnits": "",
+  "durationUnknown": false,
+  "route": Array [],
+  "timeSince": "",
+  "timeSinceUnits": "",
+  "timestamp": "New Time of Exposure",
+  "type": "",
+}
+`;
+
+exports[`exposureReducer update agent time since exposure 1`] = `
+Object {
+  "duration": "",
+  "durationUnits": "",
+  "durationUnknown": false,
+  "route": Array [],
+  "timeSince": "New Time Since",
+  "timeSinceUnits": "",
+  "timestamp": "",
+  "type": "",
+}
+`;
+
+exports[`exposureReducer update agent time since exposure units 1`] = `
+Object {
+  "duration": "",
+  "durationUnits": "",
+  "durationUnknown": false,
+  "route": Array [],
+  "timeSince": "",
+  "timeSinceUnits": "New Time Since Units",
+  "timestamp": "",
+  "type": "",
+}
+`;
+
+exports[`exposureReducer update agent type of exposure 1`] = `
+Object {
+  "duration": "",
+  "durationUnits": "",
+  "durationUnknown": false,
+  "route": Array [],
+  "timeSince": "",
+  "timeSinceUnits": "",
+  "timestamp": "",
+  "type": "New Type of Exposure",
+}
+`;
+
+exports[`exposureReducer update quick view agent duration 1`] = `
+Object {
+  "duration": 10,
+  "durationUnits": "",
+  "durationUnknown": false,
+  "route": Array [],
+  "timeSince": "",
+  "timeSinceUnits": "",
+  "timestamp": "",
+  "type": "",
+}
+`;
+
+exports[`exposureReducer update quick view agent duration units 1`] = `
+Object {
+  "duration": "",
+  "durationUnits": "hours",
+  "durationUnknown": false,
+  "route": Array [],
+  "timeSince": "",
+  "timeSinceUnits": "",
+  "timestamp": "",
+  "type": "",
+}
+`;
+
+exports[`exposureReducer update quick view agent duration unknown 1`] = `
+Object {
+  "duration": "",
+  "durationUnits": "",
+  "durationUnknown": true,
+  "route": Array [],
+  "timeSince": "",
+  "timeSinceUnits": "",
+  "timestamp": "",
+  "type": "",
+}
+`;
+
+exports[`exposureReducer update quick view agent route of exposure 1`] = `
+Object {
+  "duration": "",
+  "durationUnits": "",
+  "durationUnknown": false,
+  "route": "Ingested",
+  "timeSince": "",
+  "timeSinceUnits": "",
+  "timestamp": "",
+  "type": "",
+}
+`;
+
+exports[`exposureReducer update quick view agent time of exposure 1`] = `
+Object {
+  "duration": "",
+  "durationUnits": "",
+  "durationUnknown": false,
+  "route": Array [],
+  "timeSince": "",
+  "timeSinceUnits": "",
+  "timestamp": "Test TIme",
+  "type": "",
+}
+`;
+
+exports[`exposureReducer update quick view agent time since exposure 1`] = `
+Object {
+  "duration": "",
+  "durationUnits": "",
+  "durationUnknown": false,
+  "route": Array [],
+  "timeSince": 10,
+  "timeSinceUnits": "",
+  "timestamp": "",
+  "type": "",
+}
+`;
+
+exports[`exposureReducer update quick view agent time since exposure units 1`] = `
+Object {
+  "duration": "",
+  "durationUnits": "",
+  "durationUnknown": false,
+  "route": Array [],
+  "timeSince": "",
+  "timeSinceUnits": "hours",
+  "timestamp": "",
+  "type": "",
+}
+`;
+
+exports[`exposureReducer update quick view agent type of exposure 1`] = `
+Object {
+  "duration": "",
+  "durationUnits": "",
+  "durationUnknown": false,
+  "route": Array [],
+  "timeSince": "",
+  "timeSinceUnits": "",
+  "timestamp": "",
+  "type": "Acute",
+}
+`;

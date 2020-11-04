@@ -1,0 +1,19 @@
+exports[`Treatments action constants RESET_REFERRALS_VIEW 1`] = `"pic/TreatmentEntry/RESET_REFERRALS_VIEW"`;
+
+exports[`Treatments action constants RESET_TREATMENTS_VIEW 1`] = `"pic/TreatmentEntry/RESET_TREATMENTS_VIEW"`;
+
+exports[`Treatments action constants UPDATE_REFERRALS 1`] = `"pic/TreatmentEntry/UPDATE_REFERRALS"`;
+
+exports[`Treatments action constants UPDATE_REFERRALS_VIEW_REFEREE 1`] = `"pic/TreatmentEntry/UPDATE_REFERRALS_VIEW_REFEREE"`;
+
+exports[`Treatments action constants UPDATE_REFERRALS_VIEW_REFEREE_SITE 1`] = `"pic/TreatmentEntry/UPDATE_REFERRALS_VIEW_REFEREE_SITE"`;
+
+exports[`Treatments action constants UPDATE_REFERRALS_VIEW_SPECIALTY 1`] = `"pic/TreatmentEntry/UPDATE_REFERRALS_VIEW_SPECIALTY"`;
+
+exports[`Treatments action constants UPDATE_TREATMENTS 1`] = `"pic/TreatmentEntry/UPDATE_TREATMENTS"`;
+
+exports[`Treatments action constants UPDATE_TREATMENTS_VIEW_CONTENT 1`] = `"pic/TreatmentEntry/UPDATE_TREATMENTS_VIEW_CONTENT"`;
+
+exports[`Treatments action constants UPDATE_TREATMENTS_VIEW_DISPOSITION 1`] = `"pic/TreatmentEntry/UPDATE_TREATMENTS_VIEW_DISPOSITION"`;
+
+exports[`Treatments action constants UPDATE_TREATMENTS_VIEW_TREATMENTS 1`] = `"pic/TreatmentEntry/UPDATE_TREATMENTS_VIEW_TREATMENTS"`;

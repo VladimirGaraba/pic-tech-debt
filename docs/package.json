@@ -1,0 +1,21 @@
+{
+  "name": "PICSI-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bret Watson",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "vuepress": "^0.14.8"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "markdown-it-deflist": "^2.0.3",
+    "mdfigcaption": "^0.1.1",
+    "vuepress-plugin-disqus": "^0.1.1",
+    "vuepress-theme-picsi": "file:./vuepress-theme-picsi/"
+  }
+}
